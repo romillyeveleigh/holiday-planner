@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Great Pyramid Inn",
+    "location": "Giza",
+    "dates": "Jan 30 - Feb 1",
+    "address": "14 Abou Al Hool Al Seiahi, Pyramids Plateau, Giza",
+    "phone": "+201069987118",
+    "coordinates": [29.9753, 31.1376]
+  },
+  {
+    "name": "Kana Kato",
+    "location": "Aswan",
+    "dates": "Feb 1 - Feb 3",
+    "address": "Elephantine Island, Aswan",
+    "coordinates": [24.0850, 32.8870]
+  },
+  {
+    "name": "Steigenberger Resort Achti",
+    "location": "Luxor",
+    "dates": "Feb 3 - Feb 5",
+    "address": "Al Awameya, East Bank, Luxor",
+    "phone": "+20952274544",
+    "coordinates": [25.6970, 32.6450]
+  },
+  {
+    "name": "Sharm El Naga Resort",
+    "location": "Soma Bay",
+    "dates": "Feb 5 - Feb 6",
+    "address": "Soma Bay, Hurghada",
+    "coordinates": [26.8500, 33.9700]
+  },
+  {
+    "name": "Iberotel Casa Del Mar",
+    "location": "Hurghada",
+    "dates": "Feb 6 - Feb 8",
+    "address": "Touristic Promenade, Hurghada",
+    "phone": "+20 65 3465243",
+    "coordinates": [27.2579, 33.8116]
+  }
+]

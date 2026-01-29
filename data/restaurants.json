@@ -1,0 +1,42 @@
+{
+  "giza": [
+    { "name": "9 Pyramids Lounge", "rating": 4.5, "type": "Egyptian", "notes": "On plateau with pyramid views" },
+    { "name": "Khufu's", "rating": 4.5, "type": "Upscale Egyptian", "notes": "Pyramid views, reservations needed" },
+    { "name": "Marriott Mena House", "rating": 4.5, "type": "Multiple", "notes": "Garden dining with pyramid backdrop" },
+    { "name": "El Dar Darak", "rating": 4.5, "price": "E£400-600", "type": "Egyptian", "notes": "Traditional, 20+ years" },
+    { "name": "Zeeyara", "rating": 4.5, "type": "Egyptian", "notes": "Rooftop, camel meatballs" },
+    { "name": "Zaman Restaurant", "rating": 4.9, "reviews": 370, "price": "E£200-400", "type": "Arab/Grills" },
+    { "name": "Boom Restaurant", "rating": 4.9, "reviews": 453, "price": "E£200-400", "type": "General" },
+    { "name": "Farsha Pyramids Cafe", "rating": 4.8, "reviews": 422, "price": "E£400-600", "type": "Pyramid views" },
+    { "name": "Royal Lotus Restaurant", "rating": 4.8, "reviews": 159, "price": "E£200-400", "type": "Family" },
+    { "name": "Pyramids Cave Lounge", "rating": 4.8, "reviews": 232, "price": "E£400-600", "type": "Lounge" }
+  ],
+  "aswan": [
+    { "name": "Bob Marley Moonlight Terrace", "rating": 4.8, "type": "Egyptian", "notes": "Best on Elephantine, tagines & koftas" },
+    { "name": "Nubian Dreams Restaurant", "rating": 4.5, "type": "Egyptian/Nubian", "notes": "Stunning Nile views" },
+    { "name": "Basmatic Nubian Restaurant", "rating": 4.5, "type": "Nubian", "notes": "Rooftop terrace" },
+    { "name": "King Jamaica Restaurant", "rating": 4.5, "type": "Mixed", "notes": "Free ferry from mainland" },
+    { "name": "Mövenpick Panoramic Restaurant", "rating": 4.5, "type": "International", "notes": "Tower restaurant" }
+  ],
+  "luxor": [
+    { "name": "Sofra Restaurant", "rating": 4.8, "type": "Egyptian", "notes": "1930s house, cooking lessons" },
+    { "name": "Al Sahaby Lane Restaurant", "rating": 4.7, "type": "Egyptian", "notes": "Rooftop, temple views" },
+    { "name": "Restaurant El-Kababgy", "rating": 4.6, "type": "Egyptian", "notes": "Nile views, live guitar" },
+    { "name": "The Lantern Room", "rating": 4.7, "type": "British/Egyptian", "notes": "Cozy, large portions" },
+    { "name": "1886 Restaurant", "rating": 4.8, "type": "Fine Dining", "notes": "Winter Palace, formal" }
+  ],
+  "soma-bay": [
+    { "name": "SOBAR Somabay", "rating": 4.5, "type": "Casual", "notes": "Marina views, great carrot cake" },
+    { "name": "Maya Beach Restaurant", "rating": 4.5, "type": "Beach", "notes": "Steigenberger Ras Soma" },
+    { "name": "Arabesque", "rating": 4.6, "type": "Lebanese", "notes": "Highly rated" },
+    { "name": "Sheraton Soma Bay", "rating": 4.5, "type": "Multiple", "notes": "Italian, seafood, Asian" },
+    { "name": "Kempinski Hotel Soma Bay", "rating": 4.7, "type": "Fine Dining", "notes": "Best in Soma Bay" }
+  ],
+  "hurghada": [
+    { "name": "Mafia Pizzeria & Cafe", "rating": 4.8, "type": "Pizza", "notes": "Best pizza, stone oven, Siva Mall" },
+    { "name": "Thai Garden", "rating": 4.7, "type": "Thai", "notes": "Authentic, next to Mafia" },
+    { "name": "Mandarine Lebanese", "rating": 4.6, "type": "Lebanese", "notes": "At Siva Mall" },
+    { "name": "Mainzer Restaurant & Cafe", "rating": 4.5, "type": "Egyptian", "notes": "Promenade location" },
+    { "name": "Old School Bar & Restaurant", "rating": 4.6, "type": "Izakaya", "notes": "Modern ambiance" }
+  ]
+}
