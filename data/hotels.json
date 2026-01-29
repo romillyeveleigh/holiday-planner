@@ -12,18 +12,22 @@
     "checkOut": "Until 12:00",
     "price": "£77.77",
     "cancellation": "Free until 23:59 Jan 29; from Jan 30: £76 fee",
-    "coordinates": [29.9753, 31.1376]
+    "coordinates": [29.9753, 31.1376],
+    "mapsUrl": "https://www.google.com/maps?q=29.9753,31.1376"
   },
   {
     "name": "Kana Kato",
     "location": "Aswan",
     "dates": "Feb 1 - Feb 3",
     "address": "Elep (Elephantine Island), 81511 Aswan, Egypt",
+    "phone": "+201099783663",
     "checkIn": "From 12:00 (approved 12:00-13:00)",
     "checkOut": "Until 11:00",
     "price": "£100",
     "payment": "Due on arrival (cash or card)",
-    "coordinates": [24.0850, 32.8870]
+    "notes": "Contact host Gaser via WhatsApp after booking",
+    "coordinates": [24.0850, 32.8870],
+    "mapsUrl": "https://www.google.com/maps?q=24.0850,32.8870"
   },
   {
     "name": "Steigenberger Resort Achti",
@@ -39,28 +43,35 @@
     "price": "£183.29",
     "cancellation": "Free until 23:59 Feb 2; from Feb 3: £179 fee",
     "specialRequest": "Double bed",
-    "coordinates": [25.6970, 32.6450]
+    "coordinates": [25.6970, 32.6450],
+    "mapsUrl": "https://www.google.com/maps?q=25.6970,32.6450"
   },
   {
     "name": "Sharm El Naga Resort",
     "location": "Soma Bay",
     "dates": "Feb 5 - Feb 6",
-    "address": "Soma Bay, 84511 Hurghada, Egypt",
+    "address": "Sharm El Naga, Safaga Road, 84511 Hurghada, Egypt",
+    "phone": "+201009553602",
     "checkIn": "From 12:00",
     "checkOut": "Until 12:00",
     "price": "£38",
     "cancellation": "Free cancellation",
-    "coordinates": [26.8500, 33.9700]
+    "website": "www.sharmelnaga.com",
+    "coordinates": [26.8500, 33.9700],
+    "mapsUrl": "https://www.google.com/maps?q=26.8500,33.9700"
   },
   {
     "name": "Iberotel Casa Del Mar",
     "location": "Hurghada",
     "dates": "Feb 6 - Feb 8",
-    "address": "Touristic Promenade, 84500 Hurghada, Egypt",
-    "phone": "+20 65 3465243",
+    "address": "Safaga Road, P.O. Box 110, 84500 Hurghada, Egypt",
+    "phone": "+20653465243",
     "checkIn": "From 14:00 (requested 12:00-13:00)",
     "checkOut": "Until 12:00",
+    "price": "£230 (2 nights)",
+    "payment": "Foreign guests must pay in foreign currency",
     "cancellation": "Free cancellation",
-    "coordinates": [27.15739, 33.82445]
+    "coordinates": [27.15739, 33.82445],
+    "mapsUrl": "https://www.google.com/maps?q=27.15739,33.82445"
   }
 ]

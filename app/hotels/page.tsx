@@ -3,7 +3,7 @@
 import { useState } from "react";
 import hotelsData from "@/data/hotels.json";
 import tripData from "@/data/trip.json";
-import { MapPin, Phone, Calendar, CreditCard, Key, Bed, Clock, AlertCircle, AlertTriangle } from "lucide-react";
+import { MapPin, Phone, Calendar, CreditCard, Key, Bed, Clock, AlertCircle, AlertTriangle, ExternalLink } from "lucide-react";
 
 export default function HotelsPage() {
   const [expandedHotel, setExpandedHotel] = useState<number | null>(0);
@@ -34,7 +34,19 @@ export default function HotelsPage() {
                 {/* Address */}
                 <div className="flex items-start gap-2 text-sm">
                   <MapPin size={16} className="text-gray-400 shrink-0 mt-0.5" />
-                  <span className="text-gray-700">{hotel.address}</span>
+                  <div className="flex-1">
+                    <span className="text-gray-700">{hotel.address}</span>
+                    {"mapsUrl" in hotel && hotel.mapsUrl && (
+                      <a
+                        href={hotel.mapsUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="ml-2 text-teal hover:text-teal-dark inline-flex items-center gap-1"
+                      >
+                        Maps <ExternalLink size={12} />
+                      </a>
+                    )}
+                  </div>
                 </div>
 
                 {/* Phone */}

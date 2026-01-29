@@ -63,12 +63,12 @@ export default function PhotosPage() {
                 {shot.name}
               </h3>
               <a
-                href={shot.image}
+                href={`https://www.google.com/search?tbm=isch&q=${encodeURIComponent(shot.name + ' Egypt')}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs text-teal hover:text-teal-dark flex items-center gap-1 shrink-0"
               >
-                View
+                pics
                 <ExternalLink size={12} />
               </a>
             </div>

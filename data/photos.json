@@ -8,7 +8,13 @@
       { "name": "\"Kissing the Sphinx\"", "bestTime": "Any time", "tips": "Forced perspective; line up lips", "image": "/images/photos/giza/sphinx-perspective.jpg" },
       { "name": "Pyramid \"pinch\"", "bestTime": "Any time", "tips": "Forced perspective—pinch between fingers", "image": "/images/photos/giza/pyramid-closeup.jpg" },
       { "name": "Rooftop pyramid view", "bestTime": "Sunset", "tips": "Pyramids with golden/pink sky", "image": "/images/photos/giza/pyramids-sunset.jpg" },
-      { "name": "Khan el-Khalili lanterns", "bestTime": "Evening", "tips": "Hanging brass lanterns lit up", "image": "/images/photos/giza/khan-el-khalili.jpg" }
+      { "name": "Khan el-Khalili lanterns", "bestTime": "Evening", "tips": "Hanging brass lanterns lit up", "image": "/images/photos/giza/khan-el-khalili.jpg" },
+      { "name": "Camel at pyramids", "bestTime": "Golden hour", "tips": "Camel in foreground with all pyramids behind", "image": "/images/photos/giza/camel-pyramids.jpg" },
+      { "name": "Inside the Great Pyramid", "bestTime": "Any time", "tips": "Grand Gallery passage; claustrophobic but unique", "image": "/images/photos/giza/inside-pyramid.jpg" },
+      { "name": "Panorama Point viewpoint", "bestTime": "Sunset", "tips": "Desert viewpoint with all 9 pyramids visible", "image": "/images/photos/giza/panorama-point.jpg" },
+      { "name": "Egyptian Museum treasures", "bestTime": "Morning", "tips": "Tutankhamun gold mask; no flash allowed", "image": "/images/photos/giza/museum-treasures.jpg" },
+      { "name": "Al-Azhar Park skyline", "bestTime": "Sunset", "tips": "Cairo skyline with minarets", "image": "/images/photos/giza/azhar-park.jpg" },
+      { "name": "Muizz Street architecture", "bestTime": "Late afternoon", "tips": "Historic Islamic Cairo; ornate facades", "image": "/images/photos/giza/muizz-street.jpg" }
     ]
   },
   "aswan": {
@@ -21,7 +27,13 @@
       { "name": "Nubian doorway portrait", "bestTime": "Any time", "tips": "Colourful doors as backdrops", "image": "/images/photos/aswan/nubian-doorway.jpg" },
       { "name": "Crocodile selfie", "bestTime": "Any time", "tips": "Baby crocs to hold (tip expected)", "image": "/images/photos/aswan/crocodile.jpg" },
       { "name": "Abu Simbel colossi", "bestTime": "7-8am", "tips": "Light hits statues perfectly", "image": "/images/photos/aswan/abu-simbel-exterior.jpg" },
-      { "name": "Abu Simbel interior", "bestTime": "Any time", "tips": "Dramatic statues in shadows", "image": "/images/photos/aswan/abu-simbel-interior.jpg" }
+      { "name": "Abu Simbel interior", "bestTime": "Any time", "tips": "Dramatic statues in shadows", "image": "/images/photos/aswan/abu-simbel-interior.jpg" },
+      { "name": "Elephantine Island palms", "bestTime": "Golden hour", "tips": "Palm trees with Nile backdrop", "image": "/images/photos/aswan/elephantine-palms.jpg" },
+      { "name": "Tombs of the Nobles view", "bestTime": "Sunset", "tips": "West Bank cliffs overlooking Nile", "image": "/images/photos/aswan/tombs-nobles.jpg" },
+      { "name": "Aswan souq spices", "bestTime": "Any time", "tips": "Colourful spice pyramids; ask before photos", "image": "/images/photos/aswan/spice-market.jpg" },
+      { "name": "Unfinished Obelisk", "bestTime": "Morning", "tips": "Massive ancient stonework still in quarry", "image": "/images/photos/aswan/unfinished-obelisk.jpg" },
+      { "name": "Philae Temple columns", "bestTime": "Morning", "tips": "Walk between towering hieroglyph columns", "image": "/images/photos/aswan/philae-columns.jpg" },
+      { "name": "Nile from felucca deck", "bestTime": "Any time", "tips": "Lounging on cushions; Nile flowing past", "image": "/images/photos/aswan/felucca-deck.jpg" }
     ]
   },
   "luxor": {
@@ -35,7 +47,13 @@
       { "name": "Tomb interior paintings", "bestTime": "Any time", "tips": "Vivid 3,000-year-old colours", "image": "/images/photos/luxor/tomb-paintings.jpg" },
       { "name": "Hot air balloon selfie", "bestTime": "Sunrise", "tips": "Temples below, golden light", "image": "/images/photos/luxor/hot-air-balloon.jpg" },
       { "name": "Colossi of Memnon", "bestTime": "Early morning", "tips": "Two giants with mountains", "image": "/images/photos/luxor/colossi-memnon.jpg" },
-      { "name": "Nile sunset East Bank", "bestTime": "Sunset", "tips": "West Bank silhouetted", "image": "/images/photos/luxor/nile-sunset.jpg" }
+      { "name": "Nile sunset East Bank", "bestTime": "Sunset", "tips": "West Bank silhouetted", "image": "/images/photos/luxor/nile-sunset.jpg" },
+      { "name": "Avenue of Sphinxes", "bestTime": "Night", "tips": "Lit pathway connecting Karnak to Luxor Temple", "image": "/images/photos/luxor/avenue-sphinxes.jpg" },
+      { "name": "Karnak Sacred Lake", "bestTime": "Morning", "tips": "Temple reflected in ancient sacred pool", "image": "/images/photos/luxor/karnak-lake.jpg" },
+      { "name": "Valley of the Kings entrance", "bestTime": "Morning", "tips": "Dramatic desert valley; tombs hidden in hills", "image": "/images/photos/luxor/valley-kings.jpg" },
+      { "name": "Medinet Habu reliefs", "bestTime": "Afternoon", "tips": "Best preserved coloured hieroglyphs", "image": "/images/photos/luxor/medinet-habu.jpg" },
+      { "name": "Balloon fleet at dawn", "bestTime": "Sunrise", "tips": "Dozens of balloons over West Bank", "image": "/images/photos/luxor/balloon-fleet.jpg" },
+      { "name": "Luxor corniche promenade", "bestTime": "Sunset", "tips": "River walk with feluccas and temples", "image": "/images/photos/luxor/corniche.jpg" }
     ]
   },
   "hurghada": {
@@ -48,7 +66,14 @@
       { "name": "Beach sunset", "bestTime": "Sunset", "tips": "Parasols as silhouettes", "image": "/images/photos/hurghada/beach-sunset.jpg" },
       { "name": "Horse on beach", "bestTime": "Sunset", "tips": "Desert-meets-sea shot", "image": "/images/photos/hurghada/horse-beach.jpg" },
       { "name": "Desert quad bike", "bestTime": "Sunset", "tips": "Dust clouds, golden hour", "image": "/images/photos/hurghada/quad-bike.jpg" },
-      { "name": "Starry desert sky", "bestTime": "Night", "tips": "Long exposure; Milky Way", "image": "/images/photos/hurghada/starry-sky.jpg" }
+      { "name": "Starry desert sky", "bestTime": "Night", "tips": "Long exposure; Milky Way", "image": "/images/photos/hurghada/starry-sky.jpg" },
+      { "name": "Giftun Island beach", "bestTime": "Midday", "tips": "Crystal clear water; snorkel paradise", "image": "/images/photos/hurghada/giftun-island.jpg" },
+      { "name": "Snorkelling with fish", "bestTime": "Midday", "tips": "Colourful reef fish; underwater camera essential", "image": "/images/photos/hurghada/snorkel-fish.jpg" },
+      { "name": "Mahmya Island hammock", "bestTime": "Any time", "tips": "Beach hammock over turquoise water", "image": "/images/photos/hurghada/mahmya-hammock.jpg" },
+      { "name": "Glass bottom boat", "bestTime": "Midday", "tips": "Coral and fish through the glass", "image": "/images/photos/hurghada/glass-boat.jpg" },
+      { "name": "Bedouin camp sunset", "bestTime": "Sunset", "tips": "Traditional tent with desert backdrop", "image": "/images/photos/hurghada/bedouin-camp.jpg" },
+      { "name": "Dolphin encounter", "bestTime": "Morning", "tips": "Wild dolphins on boat trips", "image": "/images/photos/hurghada/dolphins.jpg" },
+      { "name": "Marina promenade", "bestTime": "Evening", "tips": "Yachts and restaurants lit up", "image": "/images/photos/hurghada/marina.jpg" }
     ]
   },
   "proTips": [
