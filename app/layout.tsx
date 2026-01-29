@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Egypt Trip 2026",
-  description: "Lynn & Romilly's Egypt adventure - Jan 30 to Feb 8, 2026",
+  title: "Rom & Lynn's Amazing Egypt Trip",
+  description: "Rom & Lynn's Egypt adventure - Jan 30 to Feb 8, 2026",
 };
 
 export default function RootLayout({

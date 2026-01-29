@@ -15,6 +15,7 @@ export interface Temple {
   id: string;
   name: string;
   visitDate: string;
+  built?: string;
   rating: number;
   reviews: string;
   address: string;
@@ -25,6 +26,11 @@ export interface Temple {
   region: "giza" | "aswan" | "luxor" | "daytrip";
   coordinates: [number, number];
   imageUrl: string;
+  images?: string[];
+  highlights?: string[];
+  tips?: string[];
+  bestTime?: string;
+  wikipedia?: string;
 }
 
 export interface Restaurant {
@@ -34,6 +40,7 @@ export interface Restaurant {
   price?: string;
   type: string;
   notes?: string;
+  coordinates?: [number, number];
 }
 
 export interface Hotel {
@@ -42,5 +49,14 @@ export interface Hotel {
   dates: string;
   address: string;
   phone?: string;
+  confirmation?: string;
+  pin?: string;
+  room?: string;
+  checkIn?: string;
+  checkOut?: string;
+  price?: string;
+  payment?: string;
+  cancellation?: string;
+  specialRequest?: string;
   coordinates: [number, number];
 }

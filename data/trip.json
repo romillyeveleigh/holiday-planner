@@ -1,0 +1,33 @@
+{
+  "title": "Egypt Trip",
+  "dates": "January 30 to February 8, 2026",
+  "travelers": ["Lynn Eveleigh", "Romilly Eveleigh"],
+  "baggage": {
+    "airline": "easyJet",
+    "allowance": [
+      "1 under-seat bag (max 45x36x20cm) each",
+      "1 large cabin bag (max 56x45x25cm) each"
+    ]
+  },
+  "timezone": {
+    "local": "Egypt = GMT+2",
+    "note": "All times shown are local Egyptian time"
+  },
+  "pendingRequests": [
+    {
+      "hotel": "Kana Kato",
+      "items": ["Airport transfer", "Abu Simbel trip", "Luxor transfer"]
+    },
+    {
+      "hotel": "Iberotel",
+      "items": ["Early check-in (12:00-13:00)"]
+    }
+  ],
+  "returnFlight": {
+    "flight": "easyJet EZY8744",
+    "seats": {
+      "Lynn": "9D",
+      "Romilly": "9E"
+    }
+  }
+}

@@ -38,7 +38,7 @@
 | 08:10 | Arrive Aswan Airport |
 | ~08:30-09:30 | Transfer to Kana Kato (Elephantine Island) |
 | From 12:00 | Check-in **Kana Kato** (room may be ready earlier) |
-| Afternoon | Explore island, Nile views |
+| Afternoon | Philae Temple (Temple of Isis) |
 | Evening | Felucca sunset sail |
 
 ---
@@ -53,7 +53,7 @@
 | 07:00-10:00 | Explore Temples of Ramses II & Nefertari |
 | ~10:00 | Depart Abu Simbel |
 | ~13:00 | Return to Aswan |
-| Afternoon | Philae Temple visit (optional) |
+| Afternoon | Explore island, Nile views, rest after early start |
 | Evening | Relax at hotel |
 
 ---
@@ -283,6 +283,9 @@
 
 **What it is:** The last surviving Wonder of the Ancient World—over 4,500 years old. The Great Pyramid of Khufu was the tallest man-made structure for 3,800 years. Three main pyramids (Khufu, Khafre, Menkaure), the Great Sphinx (oldest known monumental sculpture), and ancient tombs on a desert plateau. Walking distance from your hotel.
 
+![All three Giza Pyramids](/images/temples/giza-2.jpg)
+![Great Pyramid and Sphinx](/images/temples/giza-sphinx.jpg)
+
 ---
 
 ### Abu Simbel Temples
@@ -298,10 +301,13 @@
 
 **What it is:** Two massive rock temples carved into a mountainside by Ramses II—one of Egypt's greatest pharaohs who ruled for 66 years. The Great Temple features four 20-metre colossal statues of Ramses. The smaller temple honours his wife Nefertari. Famously relocated 65 metres higher by UNESCO (1964-1968) to save them from Lake Nasser flooding—one of history's greatest archaeological rescues.
 
+![Abu Simbel colossal statues](/images/temples/abu-simbel-colossi.jpg)
+![Abu Simbel Temple facade](/images/temples/abu-simbel-banner.jpg)
+
 ---
 
 ### Philae Temple (Temple of Isis)
-**When:** Feb 2 (optional, Aswan) | **Rating:** 4.8 ⭐ (8,000+ reviews)
+**When:** Feb 1 (Aswan) | **Rating:** 4.8 ⭐ (8,000+ reviews)
 
 | | |
 |---|---|
@@ -313,6 +319,9 @@
 
 **What it is:** Beautiful island temple dedicated to goddess Isis—the last place where ancient Egyptian religion was practiced (closed 550 AD). Built over 400 years by Ptolemaic and Roman rulers. Relocated stone-by-stone by UNESCO (1977-1980) from Philae Island to Agilkia Island after the Aswan High Dam threatened it. Stunning setting surrounded by the Nile. Sound & Light show available evenings ($20).
 
+![Philae Temple on Agilkia Island](/images/temples/philae.jpg)
+![Sunset over the Nile at Aswan](/images/temples/aswan-nile.jpg)
+
 ---
 
 ### Kom Ombo Temple
@@ -320,12 +329,16 @@
 
 | | |
 |---|---|
+| **Built** | ~180-47 BC (Ptolemaic period, Ptolemy VI onwards) |
 | **Address** | Kom Ombo, 45km north of Aswan |
 | **Hours** | 7am-5pm (extended to 9pm for night visits) |
 | **Entry** | ~300 EGP (~£5) |
 | **Map** | [Google Maps](https://maps.google.com/?q=Kom+Ombo+Temple+Egypt) |
 
-**What it is:** Unique "double temple" dedicated to two gods: Sobek (crocodile god) and Horus. Perfectly symmetrical with two of everything. Includes a crocodile museum with mummified crocodiles.
+**What it is:** Unique "double temple"—the only one in Egypt dedicated to two gods simultaneously: Sobek (crocodile god of fertility) and Haroeris (Horus the Elder, sky god). Perfectly symmetrical with two of everything—two entrances, two halls, two sanctuaries. Features ancient medical instruments carved in stone and a Nilometer for measuring floods. Adjacent crocodile museum displays 300+ mummified crocodiles.
+
+![Kom Ombo Temple on the Nile](/images/temples/kom-ombo-temple.jpg)
+![Kom Ombo Temple facade](/images/temples/kom-ombo-banner.jpg)
 
 ---
 
@@ -334,12 +347,16 @@
 
 | | |
 |---|---|
+| **Built** | 237-57 BC (Ptolemaic period, 180 years to complete) |
 | **Address** | West bank of Nile, Edfu (60km north of Aswan, 105km south of Luxor) |
 | **Hours** | 7am-4pm (Oct-May); 7am-5pm (Jun-Sep) |
 | **Entry** | 550 EGP (~£9) |
 | **Map** | [Google Maps](https://maps.google.com/?q=Edfu+Temple+Egypt) |
 
-**What it is:** Best-preserved ancient temple in Egypt. Dedicated to Horus, the falcon god. Second largest temple after Karnak. Impressive pylons and detailed hieroglyphics throughout.
+**What it is:** Best-preserved ancient temple in Egypt—buried under sand for 2,000 years, which protected it. Dedicated to Horus, the falcon god. Second largest temple after Karnak. Impressive 36-metre pylon gateway and detailed hieroglyphics throughout telling the story of Horus vs Seth.
+
+![Edfu Temple entrance pylon](/images/temples/edfu-temple.jpg)
+![Edfu Temple of Horus](/images/temples/edfu-banner.jpg)
 
 ---
 
@@ -348,12 +365,16 @@
 
 | | |
 |---|---|
+| **Built** | ~1539-1075 BC (New Kingdom, 18th-20th Dynasties) |
 | **Address** | West Bank, Luxor (18 miles NW of city centre) |
 | **Hours** | 6am-5pm (Summer); 6am-4pm (Winter) |
 | **Entry** | 770 EGP (~£12) for 3 tombs; +700 EGP Tutankhamun; +2000 EGP Seti I |
 | **Map** | [Google Maps](https://maps.google.com/?q=Valley+of+the+Kings+Luxor) |
 
-**What it is:** Royal burial ground for 500 years. Contains 63 tombs including Tutankhamun (KV62). Vivid painted walls depicting the afterlife journey. UNESCO World Heritage Site.
+**What it is:** Royal burial ground for 500 years where pharaohs were buried in hidden rock-cut tombs instead of pyramids (to avoid tomb robbers). Contains 63 known tombs including Tutankhamun (KV62, discovered 1922). Vivid painted walls depicting the pharaoh's journey to the afterlife. UNESCO World Heritage Site. Go early—tombs get hot and crowded.
+
+![Valley of the Kings entrance](/images/temples/valley-of-kings-entrance.jpg)
+![Horemheb tomb wall painting](/images/temples/horemheb-painting.jpg)
 
 ---
 
@@ -362,12 +383,16 @@
 
 | | |
 |---|---|
+| **Built** | ~1479-1458 BC (New Kingdom, 18th Dynasty) |
 | **Address** | Deir el-Bahari, West Bank, Luxor (5km from city centre) |
 | **Hours** | 6am-4pm (Winter); 6am-5pm (Summer) |
 | **Entry** | 300 EGP (~£5) |
 | **Map** | [Google Maps](https://maps.google.com/?q=Hatshepsut+Temple+Luxor) |
 
-**What it is:** Dramatic three-tiered temple built into cliffs for Egypt's female pharaoh. Unique colonnaded design. Beautiful reliefs depicting Hatshepsut's divine birth and trade expeditions.
+**What it is:** Dramatic three-tiered temple built into limestone cliffs for Hatshepsut—Egypt's most powerful female pharaoh who ruled as king for 20 years. Unique colonnaded design by architect Senenmut. Beautiful reliefs depicting her divine birth and trade expeditions to Punt (modern Somalia). Her stepson Thutmose III later tried to erase her from history.
+
+![Hatshepsut Temple at Deir el-Bahari](/images/temples/hatshepsut.jpg)
+![Deir el-Bahari temple complex](/images/temples/deir-el-bahari.jpg)
 
 ---
 
@@ -376,12 +401,16 @@
 
 | | |
 |---|---|
+| **Built** | ~1184-1153 BC (New Kingdom, 20th Dynasty) |
 | **Address** | West Bank, Luxor (near Colossi of Memnon) |
 | **Hours** | 6am-5pm |
 | **Entry** | ~300 EGP (~£5) |
 | **Map** | [Google Maps](https://maps.google.com/?q=Medinet+Habu+Luxor) |
 
-**What it is:** Second largest temple in Egypt with best-preserved colour on reliefs. Vivid battle scenes depicting Ramses III's victories. Often less crowded than Karnak—hidden gem.
+**What it is:** Second largest temple complex in Egypt with the best-preserved original colour on reliefs anywhere. Built by Ramses III—the last great warrior pharaoh. Vivid battle scenes depicting victories over the Sea Peoples. Often less crowded than Karnak—a hidden gem. The massive fortified gateway is unique in Egyptian architecture.
+
+![Ramesseum - Ramesses II statue on West Bank](/images/temples/ramesseum.jpg)
+![Mortuary Temple of Seti I, West Bank](/images/temples/seti-temple.jpg)
 
 ---
 
@@ -390,26 +419,34 @@
 
 | | |
 |---|---|
+| **Built** | ~2055 BC - 100 AD (over 2,000 years, 30+ pharaohs) |
 | **Address** | East Bank, 3km north of Luxor city centre |
 | **Hours** | 6am-5pm; last entry 4pm |
 | **Entry** | 600 EGP (~£10) |
 | **Map** | [Google Maps](https://maps.google.com/?q=Karnak+Temple+Luxor) |
 
-**What it is:** Largest religious complex ever built. Massive Hypostyle Hall with 134 giant columns. Built over 2,000 years by 30 pharaohs. UNESCO World Heritage Site. Best visited early morning.
+**What it is:** Largest religious complex ever built—so big you could fit 10 European cathedrals inside. Dedicated to Amun-Ra, king of the gods. The Great Hypostyle Hall contains 134 massive columns (the largest are 21m tall, 3m diameter). Built by 30 pharaohs over 2,000 years, each adding their own section. UNESCO World Heritage Site. Best visited early morning or late afternoon.
+
+![Karnak Hypostyle Hall columns](/images/temples/karnak-hypostyle.jpg)
+![Newly discovered sphinx at Karnak](/images/temples/karnak-sphinx.jpg)
 
 ---
 
 ### Luxor Temple
-**When:** Feb 3 or 4 (evening recommended) | **Rating:** 4.8 ⭐ (12,000+ reviews)
+**When:** Feb 3 (evening) | **Rating:** 4.8 ⭐ (12,000+ reviews)
 
 | | |
 |---|---|
+| **Built** | ~1400 BC by Amenhotep III, expanded by Ramses II (New Kingdom) |
 | **Address** | East Bank, Luxor city centre (Nile Corniche) |
 | **Hours** | 6am-10pm (illuminated at night) |
 | **Entry** | 450 EGP (~£7) |
 | **Map** | [Google Maps](https://maps.google.com/?q=Luxor+Temple+Egypt) |
 
-**What it is:** City centre temple connected to Karnak by Avenue of Sphinxes. Stunning when floodlit at night. Features Ramses II statues and obelisk (twin is in Paris).
+**What it is:** City centre temple connected to Karnak by the 3km Avenue of Sphinxes (recently restored). Originally built by Amenhotep III, massively expanded by Ramses II who added the famous entrance pylons. Stunning when floodlit at night. Features colossal Ramses II statues and one remaining obelisk (its twin stands in Place de la Concorde, Paris—a gift to France in 1833).
+
+![Luxor Temple at night](/images/temples/luxor-temple-night.jpg)
+![Luxor Temple from southwest](/images/temples/luxor-temple-sw.jpg)
 
 ---
 
@@ -418,12 +455,13 @@
 
 | | |
 |---|---|
+| **Built** | ~54 BC - 20 AD (Late Ptolemaic/Roman period) |
 | **Address** | Qena, 60km north of Luxor (1.5hr drive) |
 | **Hours** | 7am-5pm; last entry 4pm |
 | **Entry** | ~400 EGP (~£6) |
 | **Map** | [Google Maps](https://maps.google.com/?q=Dendera+Temple+Egypt) |
 
-**What it is:** Best-preserved temple ceiling in Egypt with famous zodiac. Dedicated to Hathor, goddess of love. Rare rooftop access. Fewer tourists—peaceful experience. Often combined with Abydos.
+**What it is:** Best-preserved temple ceiling in Egypt with famous zodiac (original now in the Louvre). Dedicated to Hathor, goddess of love, music and joy. One of the last temples built in ancient Egypt. Rare rooftop access with stunning views. Fewer tourists than Luxor sites—peaceful experience. Often combined with Abydos.
 
 ---
 
@@ -432,12 +470,15 @@
 
 | | |
 |---|---|
+| **Built** | ~1294-1279 BC by Seti I (New Kingdom, 19th Dynasty) |
 | **Address** | Abydos, ~160km north of Luxor (3hr drive) |
 | **Hours** | 8am-5pm |
 | **Entry** | ~300 EGP (~£5); Osireion requires special permit |
 | **Map** | [Google Maps](https://maps.google.com/?q=Abydos+Temple+Egypt) |
 
-**What it is:** Sacred burial site of Osiris. Temple of Seti I has finest reliefs in Egypt—still retaining original colours. Mysterious Osireion behind temple (restricted access). Often combined with Dendera.
+**What it is:** Sacred burial site of Osiris (god of the afterlife)—the most important pilgrimage site in ancient Egypt. Temple of Seti I has the finest reliefs in Egypt, still retaining vivid original colours. Contains the famous Abydos King List—a chronological list of 76 pharaohs. Mysterious Osireion behind temple (restricted access). Often combined with Dendera.
+
+![Abydos Temple relief - Seti I](/images/temples/abydos-relief.jpg)
 
 ---
 
@@ -451,7 +492,7 @@
 | **Entry** | Free (village); tips/purchases expected |
 | **Map** | [Google Maps](https://maps.google.com/?q=Nubian+Village+Aswan) |
 
-**What it is:** Colourful traditional Nubian community. Painted houses, friendly locals, henna tattoos, crocodile encounters, traditional food. Best reached by boat—scenic Nile trip.
+**What it is:** Colourful traditional Nubian community with brightly painted houses in blues, yellows and oranges. The Nubian people have their own language, culture and traditions distinct from Arab Egypt. Friendly locals, henna tattoos, pet crocodiles, traditional food. Best reached by boat—scenic Nile trip. A living cultural experience, not an ancient monument.
 
 ---
 
@@ -463,68 +504,68 @@
 
 ### Giza / Cairo (Jan 30-31)
 
-| Activity | Description | Cost | Duration |
-|----------|-------------|------|----------|
-| **Sound & Light Show** | Pyramids illuminated with laser show & narrated history | ~£15-20pp | 1hr (evening) |
-| **Camel ride at Pyramids** | Classic photo op; ride around plateau | ~£5-15 (negotiate!) | 30min-1hr |
-| **Khan el-Khalili Bazaar** | Historic souq—spices, souvenirs, jewellery, cafes | Free entry | 2-3hrs |
-| **Nile dinner cruise** | Buffet dinner with belly dancing & music | ~£25-50pp | 2-3hrs |
-| **Old Cairo (Coptic Quarter)** | Ancient churches, Hanging Church, Ben Ezra Synagogue | Free-minimal | 2hrs |
-| **Cairo Tower** | 360° city views from 187m observation deck | ~£5 | 1hr |
-| **Al-Azhar Park** | Beautiful gardens, escape the chaos, Nile views | ~£3 | 1-2hrs |
-| **Horse riding at Pyramids** | Sunset rides with pyramid backdrop | ~£15-25 | 1-2hrs |
+| Activity | Description | Cost | Duration | Hours |
+|----------|-------------|------|----------|-------|
+| **Sound & Light Show** | Pyramids illuminated with laser show & narrated history | ~£15-20pp | 1hr (evening) | 6:30pm-8pm (English) |
+| **Camel ride at Pyramids** | Classic photo op; ride around plateau | ~£5-15 (negotiate!) | 30min-1hr | 8am-5pm (site hours) |
+| **Khan el-Khalili Bazaar** | Historic souq—spices, souvenirs, jewellery, cafes | Free entry | 2-3hrs | 9:30am-11pm daily |
+| **Nile dinner cruise** | Buffet dinner with belly dancing & music | ~£25-50pp | 2-3hrs | 7pm-10pm (typical) |
+| **Old Cairo (Coptic Quarter)** | Ancient churches, Hanging Church, Ben Ezra Synagogue | Free-minimal | 2hrs | 9am-5pm |
+| **Cairo Tower** | 360° city views from 187m observation deck | ~£5 | 1hr | 9am-midnight |
+| **Al-Azhar Park** | Beautiful gardens, escape the chaos, Nile views | ~£3 | 1-2hrs | 9am-10pm |
+| **Horse riding at Pyramids** | Sunset rides with pyramid backdrop | ~£15-25 | 1-2hrs | 8am-5pm (site hours) |
 
 ---
 
 ### Aswan (Feb 1-2)
 
-| Activity | Description | Cost | Duration |
-|----------|-------------|------|----------|
-| **Felucca sunset sail** | Traditional sailboat on the Nile—magical at sunset | ~£5-10pp | 1-2hrs |
-| **Nubian Village visit** | Colourful houses, henna, crocodiles, local food | Free + tips/purchases | 2-3hrs |
-| **Aswan Souk** | Spices, Nubian crafts, scarves, perfumes | Free entry | 1-2hrs |
-| **Botanical Garden (Kitchener's Island)** | Peaceful island with exotic plants & birds | ~£5 + boat | 1-2hrs |
-| **Unfinished Obelisk** | Giant ancient obelisk abandoned in quarry | ~£8 | 30min |
-| **Aswan High Dam** | Engineering marvel; views of Lake Nasser | ~£5 | 30min |
-| **Motorboat to Elephantine** | Explore your island by water | ~£5-10 | 1hr |
-| **Nubian music night** | Live traditional music at island restaurants | Free with dinner | Evening |
+| Activity | Description | Cost | Duration | Hours |
+|----------|-------------|------|----------|-------|
+| **Felucca sunset sail** | Traditional sailboat on the Nile—magical at sunset | ~£5-10pp | 1-2hrs | Flexible (sunset best) |
+| **Nubian Village visit** | Colourful houses, henna, crocodiles, local food | Free + tips/purchases | 2-3hrs | Daytime |
+| **Aswan Souk** | Spices, Nubian crafts, scarves, perfumes | Free entry | 1-2hrs | 9am-10pm |
+| **Botanical Garden (Kitchener's Island)** | Peaceful island with exotic plants & birds | ~£5 + boat | 1-2hrs | 8am-5pm |
+| **Unfinished Obelisk** | Giant ancient obelisk abandoned in quarry | ~£8 | 30min | 7am-4pm |
+| **Aswan High Dam** | Engineering marvel; views of Lake Nasser | ~£5 | 30min | 8am-5pm (Fri to 2pm) |
+| **Motorboat to Elephantine** | Explore your island by water | ~£5-10 | 1hr | Daytime |
+| **Nubian music night** | Live traditional music at island restaurants | Free with dinner | Evening | After sunset |
 
 ---
 
 ### Luxor (Feb 3-4)
 
-| Activity | Description | Cost | Duration |
-|----------|-------------|------|----------|
-| **Hot air balloon** | Sunrise flight over West Bank & temples—bucket list! | ~£60-100pp | 3hrs (incl. transfer) |
-| **Luxor Museum** | Excellent collection, well-presented, air-conditioned | ~£12 | 1-2hrs |
-| **Mummification Museum** | Small but fascinating; mummies & embalming tools | ~£8 | 1hr |
-| **Felucca on the Nile** | Sunset sail with temple views | ~£5-10pp | 1-2hrs |
-| **Colossi of Memnon** | Two giant 18m statues (free, on route to West Bank) | Free | 15min |
-| **Banana Island** | Peaceful island, banana plantations, local life | ~£10 boat | 2hrs |
-| **Luxor Souk** | Behind Luxor Temple; alabaster, textiles, spices | Free entry | 1-2hrs |
-| **Horse carriage (Calèche)** | Clip-clop through town at night | ~£5-10 (negotiate) | 30min-1hr |
-| **Avenue of Sphinxes** | Walk the 3km restored avenue between temples | Free | 30min-1hr |
+| Activity | Description | Cost | Duration | Hours |
+|----------|-------------|------|----------|-------|
+| **Hot air balloon** | Sunrise flight over West Bank & temples—bucket list! | ~£60-100pp | 3hrs (incl. transfer) | ~5am-8am (sunrise) |
+| **Luxor Museum** | Excellent collection, well-presented, air-conditioned | ~£12 | 1-2hrs | 9am-2pm & 5pm-10pm |
+| **Mummification Museum** | Small but fascinating; mummies & embalming tools | ~£8 | 1hr | 9am-2pm & 5pm-9pm |
+| **Felucca on the Nile** | Sunset sail with temple views | ~£5-10pp | 1-2hrs | Flexible (sunset best) |
+| **Colossi of Memnon** | Two giant 18m statues (free, on route to West Bank) | Free | 15min | 6am-5pm (outdoor) |
+| **Banana Island** | Peaceful island, banana plantations, local life | ~£10 boat | 2hrs | Daytime |
+| **Luxor Souk** | Behind Luxor Temple; alabaster, textiles, spices | Free entry | 1-2hrs | 9am-10pm |
+| **Horse carriage (Calèche)** | Clip-clop through town at night | ~£5-10 (negotiate) | 30min-1hr | Daytime & evening |
+| **Avenue of Sphinxes** | Walk the 3km restored avenue between temples | Free | 30min-1hr | 6am-10pm (illuminated) |
 
 ---
 
 ### Hurghada / Soma Bay (Feb 5-8)
 
-| Activity | Description | Cost | Duration |
-|----------|-------------|------|----------|
-| **Snorkeling boat trip** | Coral reefs, tropical fish, lunch included | ~£20-50pp | Full day |
-| **Giftun Island** | National park island; pristine beaches, snorkeling | ~£30-50pp | Full day |
-| **Orange Bay** | Turquoise lagoon, beach day, water sports | ~£25-40pp | Full day |
-| **Dolphin House** | Snorkel spot where dolphins often visit | ~£25-40pp | Half day |
-| **Horse riding** | Beach or desert rides, sunset options | ~£15-20pp | 1-2hrs |
-| **Quad bike safari** | Desert adventure, Bedouin tea, sunset | ~£20-35pp | 3-4hrs |
-| **Scuba diving** | Intro dives for beginners or certified dives | ~£30-60pp | Half day |
-| **Glass bottom boat** | See coral without getting wet | ~£15-25pp | 2hrs |
-| **Parasailing** | Fly over the Red Sea | ~£15-30pp | 15min |
-| **Submarine tour** | Underwater viewing without diving | ~£40-60pp | 2hrs |
-| **Kitesurfing/Windsurfing** | Soma Bay is world-famous for wind sports | ~£50-80 lesson | 2-3hrs |
-| **Desert stargazing** | Bedouin camp, BBQ dinner, stars | ~£30-50pp | Evening |
-| **Spa day** | Most resorts have spas; massages, hammam | ~£30-80 | 2-3hrs |
-| **Al Mamsha Promenade** | Evening walk, shops, restaurants, people-watching | Free | 1-2hrs |
+| Activity | Description | Cost | Duration | Hours |
+|----------|-------------|------|----------|-------|
+| **Snorkeling boat trip** | Coral reefs, tropical fish, lunch included | ~£20-50pp | Full day | 8am-4pm (typical) |
+| **Giftun Island** | National park island; pristine beaches, snorkeling | ~£30-50pp | Full day | 8am-4pm (park hours) |
+| **Orange Bay** | Turquoise lagoon, beach day, water sports | ~£25-40pp | Full day | 9am-5pm |
+| **Dolphin House** | Snorkel spot where dolphins often visit | ~£25-40pp | Half day | Morning trips |
+| **Horse riding** | Beach or desert rides, sunset options | ~£15-20pp | 1-2hrs | 7am-6pm (stables) |
+| **Quad bike safari** | Desert adventure, Bedouin tea, sunset | ~£20-35pp | 3-4hrs | Morning or 3pm |
+| **Scuba diving** | Intro dives for beginners or certified dives | ~£30-60pp | Half day | 8am-4pm |
+| **Glass bottom boat** | See coral without getting wet | ~£15-25pp | 2hrs | 9am-5pm |
+| **Parasailing** | Fly over the Red Sea | ~£15-30pp | 15min | 9am-5pm |
+| **Submarine tour** | Underwater viewing without diving | ~£40-60pp | 2hrs | 9am-3pm |
+| **Kitesurfing/Windsurfing** | Soma Bay is world-famous for wind sports | ~£50-80 lesson | 2-3hrs | 9am-5pm |
+| **Desert stargazing** | Bedouin camp, BBQ dinner, stars | ~£30-50pp | Evening | 4pm pickup |
+| **Spa day** | Most resorts have spas; massages, hammam | ~£30-80 | 2-3hrs | 9am-9pm (resort) |
+| **Al Mamsha Promenade** | Evening walk, shops, restaurants, people-watching | Free | 1-2hrs | 24hrs (shops 10am-midnight) |
 
 ---
 
@@ -694,6 +735,77 @@ Tipping is essential in Egypt—many workers rely on it. Carry small notes (5, 1
 - **No flash** inside tombs (damages paintings)
 - Some tomb interiors ban all photography
 - Ask before photographing locals
+
+---
+
+## 📸 Instagram Shots by Location
+
+### Giza / Cairo (Jan 30-31)
+
+| Shot | Best Time | Tips | Example |
+|------|-----------|------|---------|
+| **Classic pyramid lineup** | Sunrise/sunset | All 3 pyramids in row; camel adds scale | ![](/images/photos/giza/pyramid-lineup.jpg) |
+| **Sphinx with Khafre pyramid** | Morning | Avoid midday—harsh shadows | ![](/images/photos/giza/sphinx.jpg) |
+| **"Kissing the Sphinx"** | Any time | Forced perspective; line up lips | ![](/images/photos/giza/sphinx-perspective.jpg) |
+| **Pyramid "pinch"** | Any time | Forced perspective—pinch between fingers | ![](/images/photos/giza/pyramid-closeup.jpg) |
+| **Rooftop pyramid view** | Sunset | Pyramids with golden/pink sky | ![](/images/photos/giza/pyramids-sunset.jpg) |
+| **Khan el-Khalili lanterns** | Evening | Hanging brass lanterns lit up | ![](/images/photos/giza/khan-el-khalili.jpg) |
+
+---
+
+### Aswan (Feb 1-2)
+
+| Shot | Best Time | Tips | Example |
+|------|-----------|------|---------|
+| **Philae Temple reflection** | Morning | Temple reflected in still water | ![](/images/photos/aswan/philae-reflection.jpg) |
+| **Felucca silhouette** | Sunset | Sail against orange sky | ![](/images/photos/aswan/felucca.jpg) |
+| **Nubian painted houses** | Midday | Colours pop in direct sun | ![](/images/photos/aswan/nubian-houses.jpg) |
+| **Nubian doorway portrait** | Any time | Colourful doors as backdrops | ![](/images/photos/aswan/nubian-doorway.jpg) |
+| **Crocodile selfie** | Any time | Baby crocs to hold (tip expected) | ![](/images/photos/aswan/crocodile.jpg) |
+| **Abu Simbel colossi** | 7-8am | Light hits statues perfectly | ![](/images/photos/aswan/abu-simbel-exterior.jpg) |
+| **Abu Simbel interior** | Any time | Dramatic statues in shadows | ![](/images/photos/aswan/abu-simbel-interior.jpg) |
+
+---
+
+### Luxor (Feb 3-4)
+
+| Shot | Best Time | Tips | Example |
+|------|-----------|------|---------|
+| **Karnak Hypostyle Hall** | Early morning | Shafts of light through columns | ![](/images/photos/luxor/karnak-hypostyle.jpg) |
+| **Luxor Temple at night** | After dark | Floodlit columns—stunning | ![](/images/photos/luxor/luxor-temple-night.jpg) |
+| **Hatshepsut Temple wide** | Morning | Full temple against cliffs | ![](/images/photos/luxor/hatshepsut-wide.jpg) |
+| **Hatshepsut colonnade** | Any time | Columns, mountain backdrop | ![](/images/photos/luxor/hatshepsut-colonnade.jpg) |
+| **Tomb interior paintings** | Any time | Vivid 3,000-year-old colours | ![](/images/photos/luxor/tomb-paintings.jpg) |
+| **Hot air balloon selfie** | Sunrise | Temples below, golden light | ![](/images/photos/luxor/hot-air-balloon.jpg) |
+| **Colossi of Memnon** | Early morning | Two giants with mountains | ![](/images/photos/luxor/colossi-memnon.jpg) |
+| **Nile sunset East Bank** | Sunset | West Bank silhouetted | ![](/images/photos/luxor/nile-sunset.jpg) |
+
+---
+
+### Hurghada / Red Sea (Feb 5-8)
+
+| Shot | Best Time | Tips | Example |
+|------|-----------|------|---------|
+| **Orange Bay turquoise** | Before 9am | Arrive early for empty swings | ![](/images/photos/hurghada/orange-bay.jpg) |
+| **Orange Bay swing** | Midday | Famous swing-in-sea photo | ![](/images/photos/hurghada/swing.jpg) |
+| **Underwater coral** | Midday | Best light; GoPro essential | ![](/images/photos/hurghada/underwater-coral.jpg) |
+| **Beach sunset** | Sunset | Parasols as silhouettes | ![](/images/photos/hurghada/beach-sunset.jpg) |
+| **Horse on beach** | Sunset | Desert-meets-sea shot | ![](/images/photos/hurghada/horse-beach.jpg) |
+| **Desert quad bike** | Sunset | Dust clouds, golden hour | ![](/images/photos/hurghada/quad-bike.jpg) |
+| **Starry desert sky** | Night | Long exposure; Milky Way | ![](/images/photos/hurghada/starry-sky.jpg) |
+
+---
+
+### Pro Tips for Egypt Photos
+
+- **Golden hour is king** — Sunrise and sunset transform every shot
+- **Bring a scarf** — Instant colour pop for desert/temple shots
+- **Portrait mode** — Great for isolating subjects against busy backgrounds
+- **Wide angle** — Essential for capturing temple scale
+- **Drone warning** — Drones are ILLEGAL in Egypt (confiscated + fines)
+- **Locals in photos** — Always ask permission; small tip expected
+- **Dust protection** — Keep phone/camera covered between shots
+- **Charge up** — Egypt is photo-heavy; bring power bank
 
 ---
 

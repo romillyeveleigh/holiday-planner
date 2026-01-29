@@ -1,0 +1,147 @@
+{
+  "visa": {
+    "title": "Visa & Entry",
+    "items": [
+      { "label": "E-Visa", "value": "Apply online at visa2egypt.gov.eg (~$25, valid 30 days)" },
+      { "label": "Visa on Arrival", "value": "Available at Cairo airport (~$25 cash USD/EUR/GBP)" },
+      { "label": "Passport", "value": "Must be valid 6+ months from entry date" }
+    ]
+  },
+  "money": {
+    "title": "Currency & Money",
+    "items": [
+      { "label": "Currency", "value": "Egyptian Pound (EGP/LE) — ~63 EGP = £1" },
+      { "label": "Cards", "value": "Visa/Mastercard widely accepted; most tourist sites now card-only" },
+      { "label": "Cash", "value": "Still needed for taxis, tips, markets, small vendors" },
+      { "label": "ATMs", "value": "Available in cities; withdraw EGP on arrival" },
+      { "label": "Exchange", "value": "Better rates in Egypt than UK; airport exchange OK for small amounts" },
+      { "label": "Budget tip", "value": "Set aside 10-15% of trip budget for tips" }
+    ]
+  },
+  "tipping": {
+    "title": "Tipping Guide (Baksheesh)",
+    "note": "Tipping is essential in Egypt—many workers rely on it. Carry small notes (5, 10, 20, 50 EGP). Tip in Egyptian pounds (foreign coins worthless to locals). \"La shukran\" = \"No thank you\" for unwanted help.",
+    "items": [
+      { "who": "Hotel porter", "amount": "20-50 EGP per bag" },
+      { "who": "Housekeeping", "amount": "20-50 EGP/night (leave in room)" },
+      { "who": "Restaurant (even with service charge)", "amount": "5-10% cash to server" },
+      { "who": "Tour guide (full day)", "amount": "200-500 EGP" },
+      { "who": "Driver (full day)", "amount": "100-200 EGP" },
+      { "who": "Felucca captain", "amount": "50-100 EGP" },
+      { "who": "Bathroom attendant", "amount": "5-10 EGP" },
+      { "who": "Temple guards/helpers", "amount": "10-20 EGP" },
+      { "who": "Taxi (if no app)", "amount": "Round up to nearest 10 EGP" }
+    ]
+  },
+  "weather": {
+    "title": "Weather & Packing",
+    "note": "Late January - Early February",
+    "temperatures": [
+      { "location": "Cairo/Giza", "day": "20°C (68°F)", "night": "9°C (48°F)" },
+      { "location": "Aswan/Luxor", "day": "24-26°C (75-78°F)", "night": "9°C (48°F)" },
+      { "location": "Hurghada", "day": "22°C (72°F)", "night": "14°C (57°F)" }
+    ],
+    "packing": [
+      "Layers (t-shirts + light jacket/cardigan for evenings)",
+      "Comfortable walking shoes (lots of uneven ground at temples)",
+      "Sunglasses, sunscreen, hat (sun is strong even in winter)",
+      "Modest clothing for mosques (covered shoulders/knees)",
+      "Swimwear for Hurghada",
+      "Light scarf (useful for sun, dust, mosque visits)"
+    ]
+  },
+  "scams": {
+    "title": "Avoiding Scams",
+    "items": [
+      { "scam": "Taxi overcharging", "avoid": "Use Uber/Careem apps; agree price before if street taxi" },
+      { "scam": "Camel ride trap", "avoid": "Agree TOTAL price (including getting off!) before mounting" },
+      { "scam": "\"Free\" gifts", "avoid": "Decline politely; nothing is free" },
+      { "scam": "Fake guides", "avoid": "Only use guides with official tourism badges" },
+      { "scam": "Inflated prices", "avoid": "Research typical costs; haggling is expected in markets" },
+      { "scam": "\"Closed\" attraction", "avoid": "Ignore anyone saying site is closed—check yourself" },
+      { "scam": "Papyrus/perfume shops", "avoid": "Taxis may take you to \"cousin's shop\"—decline firmly" }
+    ],
+    "haggling": [
+      "Start at 30-50% of asking price, meet in middle",
+      "Walk away if price doesn't suit—often brings it down",
+      "Don't haggle unless genuinely interested",
+      "Fixed-price shops exist (look for signs)"
+    ]
+  },
+  "phrases": {
+    "title": "Useful Arabic Phrases",
+    "items": [
+      { "english": "Hello", "arabic": "مرحبا", "pronunciation": "Mar-ha-ba" },
+      { "english": "Thank you", "arabic": "شكرا", "pronunciation": "Shuk-ran" },
+      { "english": "No thank you", "arabic": "لا شكرا", "pronunciation": "La shuk-ran" },
+      { "english": "Yes", "arabic": "نعم", "pronunciation": "Na'am" },
+      { "english": "No", "arabic": "لا", "pronunciation": "La" },
+      { "english": "How much?", "arabic": "بكم؟", "pronunciation": "Bi-kam?" },
+      { "english": "Too expensive", "arabic": "غالي جدا", "pronunciation": "Ghaa-lee jid-dan" },
+      { "english": "Please", "arabic": "من فضلك", "pronunciation": "Min fad-lak" },
+      { "english": "Excuse me", "arabic": "عفوا", "pronunciation": "Af-wan" },
+      { "english": "Water", "arabic": "ماء", "pronunciation": "Ma-a" }
+    ]
+  },
+  "connectivity": {
+    "title": "SIM Cards & Internet",
+    "items": [
+      "Buy tourist SIM at Cairo airport (Vodafone, Orange, Etisalat)",
+      "~£10-15 for SIM + data package (~10-20GB)",
+      "Bring passport for registration",
+      "WhatsApp works well for communication",
+      "WiFi available at most hotels"
+    ]
+  },
+  "electrical": {
+    "title": "Electrical & Adapters",
+    "items": [
+      { "label": "Plug type", "value": "C and F (European 2-pin round)" },
+      { "label": "Voltage", "value": "220V, 50Hz (same as UK voltage, different plug)" },
+      { "label": "Tip", "value": "Bring a universal adapter" }
+    ]
+  },
+  "health": {
+    "title": "Health & Safety",
+    "items": [
+      "Don't drink tap water — bottled water only (cheap and everywhere)",
+      "Avoid ice in drinks outside hotels",
+      "Wash/peel fruit; be cautious with salads from street vendors",
+      "Bring basic meds: anti-diarrhoea, rehydration salts, paracetamol",
+      "Sun protection essential",
+      "Travel insurance: ensure it covers medical evacuation"
+    ]
+  },
+  "emergency": {
+    "title": "Emergency Contacts",
+    "contacts": [
+      { "service": "Police", "number": "122" },
+      { "service": "Ambulance", "number": "123" },
+      { "service": "Tourist Police", "number": "126" },
+      { "service": "UK Embassy Cairo", "number": "+20 2 2791 6000" }
+    ],
+    "embassy": "7 Ahmed Ragheb Street, Garden City, Cairo"
+  },
+  "etiquette": {
+    "title": "Cultural Etiquette",
+    "items": [
+      "Remove shoes when entering mosques",
+      "Dress modestly at religious sites (shoulders/knees covered)",
+      "Ask permission before photographing people",
+      "Use right hand for greetings and eating",
+      "Egyptians are generally warm and hospitable—a smile goes far",
+      "Bargaining is normal and expected in markets (not in restaurants/hotels)",
+      "Friday is the holy day; some sites may have reduced hours"
+    ]
+  },
+  "photography": {
+    "title": "Photography Tips",
+    "items": [
+      "Mobile phones: free at most sites",
+      "Professional cameras: may require extra fee (100-300 EGP)",
+      "No flash inside tombs (damages paintings)",
+      "Some tomb interiors ban all photography",
+      "Ask before photographing locals"
+    ]
+  }
+}

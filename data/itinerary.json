@@ -6,8 +6,9 @@
     "hotel": "Great Pyramid Inn",
     "activities": [
       { "time": "09:40", "description": "Depart London Heathrow (EgyptAir MS784)" },
-      { "time": "16:30", "description": "Arrive Cairo Airport" },
-      { "time": "17:30-19:00", "description": "Transfer to hotel" },
+      { "time": "16:30", "description": "Arrive Cairo Airport (CAI)" },
+      { "time": "~17:30-19:00", "description": "Transfer to hotel" },
+      { "time": "From 14:00", "description": "Check-in Great Pyramid Inn" },
       { "time": "Evening", "description": "Settle in, rooftop pyramid views, dinner" }
     ]
   },
@@ -18,7 +19,7 @@
     "hotel": "Great Pyramid Inn",
     "activities": [
       { "time": "08:00-12:00", "description": "Explore Giza Pyramids & Sphinx" },
-      { "time": "Afternoon", "description": "Egyptian Museum (Grand Egyptian Museum)" },
+      { "time": "Afternoon", "description": "Egyptian Museum (Grand Egyptian Museum or old museum at Tahrir Square)" },
       { "time": "Evening", "description": "Relax at hotel" }
     ]
   },
@@ -28,9 +29,13 @@
     "location": "Aswan",
     "hotel": "Kana Kato",
     "activities": [
-      { "time": "06:45", "description": "Domestic flight Cairo → Aswan" },
-      { "time": "12:00-13:00", "description": "Transfer to hotel" },
-      { "time": "14:00-18:00", "description": "Explore Elephantine Island, Nile views" },
+      { "time": "~03:30", "description": "Check-out Great Pyramid Inn (early departure)" },
+      { "time": "~04:00", "description": "Transfer to Cairo Airport" },
+      { "time": "06:45", "description": "Depart Cairo (domestic flight)" },
+      { "time": "08:10", "description": "Arrive Aswan Airport" },
+      { "time": "~08:30-09:30", "description": "Transfer to Kana Kato (Elephantine Island)" },
+      { "time": "From 12:00", "description": "Check-in Kana Kato (room may be ready earlier)" },
+      { "time": "Afternoon", "description": "Philae Temple (Temple of Isis)" },
       { "time": "Evening", "description": "Felucca sunset sail" }
     ]
   },
@@ -40,9 +45,14 @@
     "location": "Aswan/Abu Simbel",
     "hotel": "Kana Kato",
     "activities": [
-      { "time": "04:00-08:00", "description": "Abu Simbel day trip (3h drive each way)" },
-      { "time": "Afternoon", "description": "Temples of Ramses II & Nefertari" },
-      { "time": "Late afternoon", "description": "Return to Aswan, optional Philae Temple" }
+      { "time": "~03:30", "description": "Pick-up from hotel (Abu Simbel day trip)" },
+      { "time": "~04:00", "description": "Depart Aswan in convoy" },
+      { "time": "~07:00", "description": "Arrive Abu Simbel" },
+      { "time": "07:00-10:00", "description": "Explore Temples of Ramses II & Nefertari" },
+      { "time": "~10:00", "description": "Depart Abu Simbel" },
+      { "time": "~13:00", "description": "Return to Aswan" },
+      { "time": "Afternoon", "description": "Explore island, Nile views, rest after early start" },
+      { "time": "Evening", "description": "Relax at hotel" }
     ]
   },
   {
@@ -51,11 +61,19 @@
     "location": "Luxor",
     "hotel": "Steigenberger Resort Achti",
     "activities": [
-      { "time": "11:00", "description": "Check-out Kana Kato" },
-      { "time": "11:00-14:00", "description": "Transfer to Luxor (optional Kom Ombo & Edfu stops)" },
-      { "time": "15:00", "description": "Check-in Steigenberger Resort Achti" },
-      { "time": "16:00-18:00", "description": "Walk to Luxor Temple" },
-      { "time": "Evening", "description": "Nile-side dinner" }
+      { "time": "~08:00", "description": "Check-out Kana Kato (early departure)" },
+      { "time": "~08:30", "description": "Depart Aswan by car" },
+      { "time": "~09:15", "description": "Arrive Kom Ombo Temple" },
+      { "time": "09:15-10:15", "description": "Visit Kom Ombo (double temple + crocodile museum)" },
+      { "time": "~10:30", "description": "Depart Kom Ombo" },
+      { "time": "~12:00", "description": "Arrive Edfu Temple" },
+      { "time": "12:00-13:00", "description": "Visit Edfu Temple (best-preserved temple in Egypt)" },
+      { "time": "~13:30", "description": "Depart Edfu, continue to Luxor" },
+      { "time": "~15:00", "description": "Arrive Luxor" },
+      { "time": "From 15:00", "description": "Check-in Steigenberger Resort Achti" },
+      { "time": "16:00-18:00", "description": "Rest & freshen up after long day" },
+      { "time": "~18:30-20:30", "description": "Luxor Temple (floodlit at night - best time to visit)" },
+      { "time": "21:00", "description": "Nile-side dinner" }
     ]
   },
   {
@@ -64,8 +82,10 @@
     "location": "Luxor",
     "hotel": "Steigenberger Resort Achti",
     "activities": [
-      { "time": "06:00-12:00", "description": "West Bank: Valley of the Kings, Hatshepsut Temple" },
-      { "time": "13:00-14:00", "description": "Lunch" },
+      { "time": "06:00-09:00", "description": "Valley of the Kings" },
+      { "time": "09:30-10:30", "description": "Hatshepsut Temple" },
+      { "time": "11:00-12:00", "description": "Medinet Habu (Temple of Ramses III)" },
+      { "time": "12:30-13:30", "description": "Lunch" },
       { "time": "15:00-18:00", "description": "Karnak Temple" },
       { "time": "Evening", "description": "Relax at resort" }
     ]
@@ -76,8 +96,9 @@
     "location": "Hurghada (Soma Bay)",
     "hotel": "Sharm El Naga Resort",
     "activities": [
-      { "time": "12:00", "description": "Check-out Steigenberger Resort Achti" },
-      { "time": "12:00-17:00", "description": "Transfer to Hurghada (4-5h drive)" },
+      { "time": "By 12:00", "description": "Check-out Steigenberger Resort Achti" },
+      { "time": "12:00-17:00", "description": "Transfer to Hurghada (~4-5h drive)" },
+      { "time": "~17:00", "description": "Arrive & check-in Sharm El Naga Resort" },
       { "time": "Evening", "description": "Beach, house reef snorkelling" }
     ]
   },
@@ -87,9 +108,9 @@
     "location": "Hurghada",
     "hotel": "Iberotel Casa Del Mar",
     "activities": [
-      { "time": "12:00", "description": "Check-out Sharm El Naga" },
-      { "time": "12:00-13:30", "description": "Transfer to central Hurghada" },
-      { "time": "14:00", "description": "Check-in Iberotel Casa Del Mar" },
+      { "time": "By 12:00", "description": "Check-out Sharm El Naga" },
+      { "time": "12:00-13:30", "description": "Transfer to central Hurghada (~45-60 min)" },
+      { "time": "From 14:00", "description": "Check-in Iberotel Casa Del Mar (early 12:00-13:00 requested)" },
       { "time": "Afternoon", "description": "Beach, pool, explore promenade" },
       { "time": "Evening", "description": "All-inclusive dining" }
     ]
@@ -100,7 +121,7 @@
     "location": "Hurghada",
     "hotel": "Iberotel Casa Del Mar",
     "activities": [
-      { "time": "Morning/Afternoon", "description": "Horse ride (beach/desert, 1-3 hours)" },
+      { "time": "Morning/Afternoon", "description": "Horse ride (beach/desert, 1-3 hours, book via hotel)" },
       { "time": "Rest of day", "description": "Beach, pool, resort relaxation" }
     ]
   },
@@ -109,10 +130,13 @@
     "dayOfWeek": "Sunday",
     "location": "Return to London",
     "activities": [
-      { "time": "12:00", "description": "Check-out Iberotel Casa Del Mar" },
-      { "time": "12:00-14:00", "description": "Transfer to Hurghada Airport" },
+      { "time": "By 12:00", "description": "Check-out Iberotel Casa Del Mar" },
+      { "time": "12:00-14:00", "description": "Transfer to Hurghada Airport Terminal 1" },
+      { "time": "14:45-16:45", "description": "Bag drop window" },
+      { "time": "16:45", "description": "Check-in closes (60 mins before departure)" },
       { "time": "17:45", "description": "Depart Hurghada (easyJet EZY8744)" },
-      { "time": "21:45", "description": "Arrive London Gatwick" }
-    ]
+      { "time": "21:45", "description": "Arrive London Gatwick (North Terminal)" }
+    ],
+    "notes": "Seats: Lynn 9D, Romilly 9E"
   }
 ]

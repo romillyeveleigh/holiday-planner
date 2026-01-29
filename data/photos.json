@@ -1,0 +1,64 @@
+{
+  "giza": {
+    "label": "Giza / Cairo",
+    "dates": "Jan 30-31",
+    "shots": [
+      { "name": "Classic pyramid lineup", "bestTime": "Sunrise/sunset", "tips": "All 3 pyramids in row; camel adds scale", "image": "/images/photos/giza/pyramid-lineup.jpg" },
+      { "name": "Sphinx with Khafre pyramid", "bestTime": "Morning", "tips": "Avoid midday—harsh shadows", "image": "/images/photos/giza/sphinx.jpg" },
+      { "name": "\"Kissing the Sphinx\"", "bestTime": "Any time", "tips": "Forced perspective; line up lips", "image": "/images/photos/giza/sphinx-perspective.jpg" },
+      { "name": "Pyramid \"pinch\"", "bestTime": "Any time", "tips": "Forced perspective—pinch between fingers", "image": "/images/photos/giza/pyramid-closeup.jpg" },
+      { "name": "Rooftop pyramid view", "bestTime": "Sunset", "tips": "Pyramids with golden/pink sky", "image": "/images/photos/giza/pyramids-sunset.jpg" },
+      { "name": "Khan el-Khalili lanterns", "bestTime": "Evening", "tips": "Hanging brass lanterns lit up", "image": "/images/photos/giza/khan-el-khalili.jpg" }
+    ]
+  },
+  "aswan": {
+    "label": "Aswan",
+    "dates": "Feb 1-2",
+    "shots": [
+      { "name": "Philae Temple reflection", "bestTime": "Morning", "tips": "Temple reflected in still water", "image": "/images/photos/aswan/philae-reflection.jpg" },
+      { "name": "Felucca silhouette", "bestTime": "Sunset", "tips": "Sail against orange sky", "image": "/images/photos/aswan/felucca.jpg" },
+      { "name": "Nubian painted houses", "bestTime": "Midday", "tips": "Colours pop in direct sun", "image": "/images/photos/aswan/nubian-houses.jpg" },
+      { "name": "Nubian doorway portrait", "bestTime": "Any time", "tips": "Colourful doors as backdrops", "image": "/images/photos/aswan/nubian-doorway.jpg" },
+      { "name": "Crocodile selfie", "bestTime": "Any time", "tips": "Baby crocs to hold (tip expected)", "image": "/images/photos/aswan/crocodile.jpg" },
+      { "name": "Abu Simbel colossi", "bestTime": "7-8am", "tips": "Light hits statues perfectly", "image": "/images/photos/aswan/abu-simbel-exterior.jpg" },
+      { "name": "Abu Simbel interior", "bestTime": "Any time", "tips": "Dramatic statues in shadows", "image": "/images/photos/aswan/abu-simbel-interior.jpg" }
+    ]
+  },
+  "luxor": {
+    "label": "Luxor",
+    "dates": "Feb 3-4",
+    "shots": [
+      { "name": "Karnak Hypostyle Hall", "bestTime": "Early morning", "tips": "Shafts of light through columns", "image": "/images/photos/luxor/karnak-hypostyle.jpg" },
+      { "name": "Luxor Temple at night", "bestTime": "After dark", "tips": "Floodlit columns—stunning", "image": "/images/photos/luxor/luxor-temple-night.jpg" },
+      { "name": "Hatshepsut Temple wide", "bestTime": "Morning", "tips": "Full temple against cliffs", "image": "/images/photos/luxor/hatshepsut-wide.jpg" },
+      { "name": "Hatshepsut colonnade", "bestTime": "Any time", "tips": "Columns, mountain backdrop", "image": "/images/photos/luxor/hatshepsut-colonnade.jpg" },
+      { "name": "Tomb interior paintings", "bestTime": "Any time", "tips": "Vivid 3,000-year-old colours", "image": "/images/photos/luxor/tomb-paintings.jpg" },
+      { "name": "Hot air balloon selfie", "bestTime": "Sunrise", "tips": "Temples below, golden light", "image": "/images/photos/luxor/hot-air-balloon.jpg" },
+      { "name": "Colossi of Memnon", "bestTime": "Early morning", "tips": "Two giants with mountains", "image": "/images/photos/luxor/colossi-memnon.jpg" },
+      { "name": "Nile sunset East Bank", "bestTime": "Sunset", "tips": "West Bank silhouetted", "image": "/images/photos/luxor/nile-sunset.jpg" }
+    ]
+  },
+  "hurghada": {
+    "label": "Hurghada / Red Sea",
+    "dates": "Feb 5-8",
+    "shots": [
+      { "name": "Orange Bay turquoise", "bestTime": "Before 9am", "tips": "Arrive early for empty swings", "image": "/images/photos/hurghada/orange-bay.jpg" },
+      { "name": "Orange Bay swing", "bestTime": "Midday", "tips": "Famous swing-in-sea photo", "image": "/images/photos/hurghada/swing.jpg" },
+      { "name": "Underwater coral", "bestTime": "Midday", "tips": "Best light; GoPro essential", "image": "/images/photos/hurghada/underwater-coral.jpg" },
+      { "name": "Beach sunset", "bestTime": "Sunset", "tips": "Parasols as silhouettes", "image": "/images/photos/hurghada/beach-sunset.jpg" },
+      { "name": "Horse on beach", "bestTime": "Sunset", "tips": "Desert-meets-sea shot", "image": "/images/photos/hurghada/horse-beach.jpg" },
+      { "name": "Desert quad bike", "bestTime": "Sunset", "tips": "Dust clouds, golden hour", "image": "/images/photos/hurghada/quad-bike.jpg" },
+      { "name": "Starry desert sky", "bestTime": "Night", "tips": "Long exposure; Milky Way", "image": "/images/photos/hurghada/starry-sky.jpg" }
+    ]
+  },
+  "proTips": [
+    "Golden hour is king — Sunrise and sunset transform every shot",
+    "Bring a scarf — Instant colour pop for desert/temple shots",
+    "Portrait mode — Great for isolating subjects against busy backgrounds",
+    "Wide angle — Essential for capturing temple scale",
+    "Drone warning — Drones are ILLEGAL in Egypt (confiscated + fines)",
+    "Locals in photos — Always ask permission; small tip expected",
+    "Dust protection — Keep phone/camera covered between shots",
+    "Charge up — Egypt is photo-heavy; bring power bank"
+  ]
+}

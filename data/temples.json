@@ -3,181 +3,421 @@
     "id": "giza-necropolis",
     "name": "Giza Necropolis (Pyramids & Sphinx)",
     "visitDate": "Jan 30-31",
+    "built": "~2560-2540 BC (Old Kingdom, 4th Dynasty)",
     "rating": 4.8,
     "reviews": "50,000+",
     "address": "Al Haram Street, Giza Plateau, Giza, Egypt",
-    "hours": "8am-5pm (Winter); 7am-6pm (Summer)",
+    "hours": "8am-5pm (Winter); 7am-6pm (Summer); last entry 4pm",
     "entry": "700 EGP (~£11); +1500 EGP Great Pyramid interior",
     "mapUrl": "https://maps.google.com/?q=Giza+Pyramids+Egypt",
-    "description": "The last surviving Wonder of the Ancient World. Three pyramids (Khufu, Khafre, Menkaure), the Great Sphinx, and ancient tombs on a desert plateau.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+    "description": "The last surviving Wonder of the Ancient World—over 4,500 years old. The Great Pyramid of Khufu was the tallest man-made structure for 3,800 years. Three main pyramids (Khufu, Khafre, Menkaure), the Great Sphinx (oldest known monumental sculpture), and ancient tombs on a desert plateau. Walking distance from your hotel.",
     "region": "giza",
     "coordinates": [29.9792, 31.1342],
-    "imageUrl": "/images/temples/giza.jpg"
+    "imageUrl": "/images/temples/giza.jpg",
+    "images": [
+      "/images/temples/giza-2.jpg",
+      "/images/temples/giza-sphinx.jpg"
+    ],
+    "highlights": [
+      "Great Pyramid interior—claustrophobic but unforgettable",
+      "Sphinx up close (often less crowded early morning)",
+      "Panoramic viewpoint behind Menkaure pyramid",
+      "Boat Museum—4,600 year old cedar solar boat"
+    ],
+    "tips": [
+      "Arrive at 8am opening to beat crowds",
+      "Great Pyramid interior tickets sell out—buy early",
+      "Ignore 'guides' who approach you—they're not official",
+      "Agree camel ride price BEFORE mounting (and dismounting!)",
+      "Bring water—no shade on the plateau"
+    ],
+    "bestTime": "Early morning (8-10am) for fewer crowds and cooler temperatures"
   },
   {
     "id": "abu-simbel",
     "name": "Abu Simbel Temples",
     "visitDate": "Feb 2",
+    "built": "~1264-1244 BC by Ramses II (New Kingdom, 19th Dynasty)",
     "rating": 4.8,
     "reviews": "10,000+",
-    "address": "Abu Simbel, Aswan Governorate, Egypt",
-    "hours": "6am-4pm; Ramadan 7am-3pm",
+    "address": "Abu Simbel, Aswan Governorate, Egypt (280km south of Aswan)",
+    "hours": "6am-4pm (5am-6pm some sources); Ramadan 7am-3pm",
     "entry": "750 EGP (~£12)",
     "mapUrl": "https://maps.google.com/?q=Abu+Simbel+Temple+Egypt",
-    "description": "Two massive rock temples built by Ramses II, carved into a mountainside. Famously relocated by UNESCO in the 1960s to save them from flooding.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abu_Simbel",
+    "description": "Two massive rock temples carved into a mountainside by Ramses II—one of Egypt's greatest pharaohs who ruled for 66 years. The Great Temple features four 20-metre colossal statues of Ramses. The smaller temple honours his wife Nefertari. Famously relocated 65 metres higher by UNESCO (1964-1968) to save them from Lake Nasser flooding—one of history's greatest archaeological rescues.",
     "region": "aswan",
     "coordinates": [22.3372, 31.6258],
-    "imageUrl": "/images/temples/abu-simbel.jpg"
+    "imageUrl": "/images/temples/abu-simbel.jpg",
+    "images": [
+      "/images/temples/abu-simbel-colossi.jpg",
+      "/images/temples/abu-simbel-banner.jpg"
+    ],
+    "highlights": [
+      "Four 20m colossal statues of Ramses II",
+      "Temple interior with 8 Osiride statues",
+      "Nefertari's smaller temple—rare equal-sized depiction of queen",
+      "Sun Festival alignment (Feb 22 & Oct 22—sun illuminates inner sanctuary)"
+    ],
+    "tips": [
+      "3:30am pickup is brutal but worth it",
+      "Light hits facade perfectly around 7-8am",
+      "Bring breakfast—cafes open but limited",
+      "Photography allowed but no flash inside",
+      "Convoy returns ~1pm—rest in Aswan afternoon"
+    ],
+    "bestTime": "Dawn arrival (7am) when sunlight illuminates the facade"
   },
   {
     "id": "philae",
     "name": "Philae Temple (Temple of Isis)",
-    "visitDate": "Feb 2 (optional)",
+    "visitDate": "Feb 1",
+    "built": "~380 BC - 117 AD (Ptolemaic & Roman periods)",
     "rating": 4.8,
     "reviews": "8,000+",
-    "address": "Agilkia Island, 8km south of Aswan",
-    "hours": "7am-4pm",
+    "address": "Agilkia Island, 8km south of Aswan (boat required)",
+    "hours": "7am-4pm; last entry ~3pm",
     "entry": "550 EGP (~£9) + 800 EGP boat (~£13)",
     "mapUrl": "https://maps.google.com/?q=Philae+Temple+Aswan",
-    "description": "Beautiful island temple dedicated to goddess Isis. Relocated stone-by-stone by UNESCO after Aswan Dam construction.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philae",
+    "description": "Beautiful island temple dedicated to goddess Isis—the last place where ancient Egyptian religion was practiced (closed 550 AD). Built over 400 years by Ptolemaic and Roman rulers. Relocated stone-by-stone by UNESCO (1977-1980) from Philae Island to Agilkia Island after the Aswan High Dam threatened it. Stunning setting surrounded by the Nile. Sound & Light show available evenings ($20).",
     "region": "aswan",
     "coordinates": [24.0262, 32.8841],
-    "imageUrl": "/images/temples/philae.jpg"
+    "imageUrl": "/images/temples/philae.jpg",
+    "images": [
+      "/images/temples/aswan-nile.jpg"
+    ],
+    "highlights": [
+      "Island setting—approach by boat is magical",
+      "Birth colonnade—reliefs of Horus as child",
+      "Trajan's Kiosk (the 'Pharaoh's Bed')—iconic photo spot",
+      "Graffiti from 1800s explorers"
+    ],
+    "tips": [
+      "Negotiate boat price before boarding (should be ~200 EGP shared)",
+      "Allow 1.5-2 hours for visit",
+      "Sound & Light show worth it if you have time",
+      "Afternoon light best for photos",
+      "Combine with felucca ride back to Aswan"
+    ],
+    "bestTime": "Late afternoon for golden light on the columns"
   },
   {
     "id": "kom-ombo",
     "name": "Kom Ombo Temple",
     "visitDate": "Feb 3 (en route)",
+    "built": "~180-47 BC (Ptolemaic period, Ptolemy VI onwards)",
     "rating": 4.7,
     "reviews": "5,000",
     "address": "Kom Ombo, 45km north of Aswan",
-    "hours": "7am-5pm (9pm for night visits)",
+    "hours": "7am-5pm (extended to 9pm for night visits)",
     "entry": "~300 EGP (~£5)",
     "mapUrl": "https://maps.google.com/?q=Kom+Ombo+Temple+Egypt",
-    "description": "Unique double temple dedicated to Sobek (crocodile god) and Horus. Perfectly symmetrical with two of everything. Includes crocodile museum.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo",
+    "description": "Unique \"double temple\"—the only one in Egypt dedicated to two gods simultaneously: Sobek (crocodile god of fertility) and Haroeris (Horus the Elder, sky god). Perfectly symmetrical with two of everything—two entrances, two halls, two sanctuaries. Features ancient medical instruments carved in stone and a Nilometer for measuring floods. Adjacent crocodile museum displays 300+ mummified crocodiles.",
     "region": "aswan",
     "coordinates": [24.4522, 32.9281],
-    "imageUrl": "/images/temples/kom-ombo.jpg"
+    "imageUrl": "/images/temples/kom-ombo.jpg",
+    "images": [
+      "/images/temples/kom-ombo-temple.jpg",
+      "/images/temples/kom-ombo-banner.jpg"
+    ],
+    "highlights": [
+      "Double symmetry—compare left (Horus) vs right (Sobek) sides",
+      "Ancient surgical instruments relief—world's oldest medical images",
+      "Crocodile Museum—300+ mummified crocs, some 4m long",
+      "Nilometer—ancient flood measurement device"
+    ],
+    "tips": [
+      "Crocodile museum ticket separate but worth it",
+      "45 mins is enough for temple",
+      "Temple lit beautifully at night if you can swing evening visit",
+      "Café overlooking Nile for quick refreshment"
+    ],
+    "bestTime": "Morning (on route to Luxor) or sunset for dramatic lighting"
   },
   {
     "id": "edfu",
     "name": "Edfu Temple (Temple of Horus)",
     "visitDate": "Feb 3 (en route)",
+    "built": "237-57 BC (Ptolemaic period, 180 years to complete)",
     "rating": 4.8,
     "reviews": "6,400",
-    "address": "West bank of Nile, Edfu",
-    "hours": "7am-4pm (Oct-May)",
+    "address": "West bank of Nile, Edfu (60km north of Aswan, 105km south of Luxor)",
+    "hours": "7am-4pm (Oct-May); 7am-5pm (Jun-Sep)",
     "entry": "550 EGP (~£9)",
     "mapUrl": "https://maps.google.com/?q=Edfu+Temple+Egypt",
-    "description": "Best-preserved ancient temple in Egypt. Dedicated to Horus, the falcon god. Second largest temple after Karnak.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Temple_of_Edfu",
+    "description": "Best-preserved ancient temple in Egypt—buried under sand for 2,000 years, which protected it. Dedicated to Horus, the falcon god. Second largest temple after Karnak. Impressive 36-metre pylon gateway and detailed hieroglyphics throughout telling the story of Horus vs Seth.",
     "region": "aswan",
     "coordinates": [24.9781, 32.8734],
-    "imageUrl": "/images/temples/edfu.jpg"
+    "imageUrl": "/images/temples/edfu.jpg",
+    "images": [
+      "/images/temples/edfu-temple.jpg",
+      "/images/temples/edfu-banner.jpg"
+    ],
+    "highlights": [
+      "36m pylon entrance—one of Egypt's tallest temple gateways",
+      "Granite Horus statue—falcon god at entrance",
+      "Hypostyle hall—18 massive columns",
+      "Birth House (Mammisi)—reliefs of divine birth of Horus",
+      "Innermost sanctuary—still has the original shrine"
+    ],
+    "tips": [
+      "Horse carriage from dock included in most tours",
+      "Can get very hot inside—bring water",
+      "1 hour is enough, but don't rush",
+      "Look up at ceiling—original blue paint survives",
+      "Ignore persistent vendors at entrance"
+    ],
+    "bestTime": "Midday (least crowded as cruise ships visit morning/evening)"
   },
   {
     "id": "valley-of-kings",
     "name": "Valley of the Kings",
     "visitDate": "Feb 4",
+    "built": "~1539-1075 BC (New Kingdom, 18th-20th Dynasties)",
     "rating": 4.7,
     "reviews": "20,000+",
-    "address": "West Bank, Luxor",
-    "hours": "6am-4pm (Winter)",
-    "entry": "770 EGP (~£12) for 3 tombs; +700 EGP Tutankhamun",
+    "address": "West Bank, Luxor (18 miles NW of city centre)",
+    "hours": "6am-5pm (Summer); 6am-4pm (Winter)",
+    "entry": "770 EGP (~£12) for 3 tombs; +700 EGP Tutankhamun; +2000 EGP Seti I",
     "mapUrl": "https://maps.google.com/?q=Valley+of+the+Kings+Luxor",
-    "description": "Royal burial ground for 500 years. Contains 63 tombs including Tutankhamun. Vivid painted walls depicting the afterlife journey.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+    "description": "Royal burial ground for 500 years where pharaohs were buried in hidden rock-cut tombs instead of pyramids (to avoid tomb robbers). Contains 63 known tombs including Tutankhamun (KV62, discovered 1922). Vivid painted walls depicting the pharaoh's journey to the afterlife. UNESCO World Heritage Site. Go early—tombs get hot and crowded.",
     "region": "luxor",
     "coordinates": [25.7402, 32.6014],
-    "imageUrl": "/images/temples/valley-of-kings.jpg"
+    "imageUrl": "/images/temples/valley-of-kings.jpg",
+    "images": [
+      "/images/temples/valley-of-kings-entrance.jpg",
+      "/images/temples/horemheb-painting.jpg"
+    ],
+    "highlights": [
+      "Ramses VI (KV9)—stunning astronomical ceiling",
+      "Tutankhamun (KV62)—see the actual mummy",
+      "Seti I (KV17)—finest paintings (extra ticket)",
+      "Ramses III (KV11)—colourful, less crowded",
+      "Thutmose III (KV34)—oldest decorated tomb"
+    ],
+    "tips": [
+      "Arrive at 6am opening—tombs become ovens by 10am",
+      "Tut tomb is small and crowded—consider if worth extra fee",
+      "Photography BANNED in all tombs (phones confiscated)",
+      "Take the tram (5 EGP) to save energy for tombs",
+      "Choose 3 included tombs wisely—Ramses VI is best value"
+    ],
+    "bestTime": "6am opening—essential for cooler temperatures and fewer crowds"
   },
   {
     "id": "hatshepsut",
     "name": "Mortuary Temple of Hatshepsut",
     "visitDate": "Feb 4",
+    "built": "~1479-1458 BC (New Kingdom, 18th Dynasty)",
     "rating": 4.8,
     "reviews": "8,000+",
-    "address": "Deir el-Bahari, West Bank, Luxor",
-    "hours": "6am-4pm (Winter)",
+    "address": "Deir el-Bahari, West Bank, Luxor (5km from city centre)",
+    "hours": "6am-4pm (Winter); 6am-5pm (Summer)",
     "entry": "300 EGP (~£5)",
     "mapUrl": "https://maps.google.com/?q=Hatshepsut+Temple+Luxor",
-    "description": "Dramatic three-tiered temple built into cliffs for Egypt's female pharaoh. Unique colonnaded design.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mortuary_Temple_of_Hatshepsut",
+    "description": "Dramatic three-tiered temple built into limestone cliffs for Hatshepsut—Egypt's most powerful female pharaoh who ruled as king for 20 years. Unique colonnaded design by architect Senenmut. Beautiful reliefs depicting her divine birth and trade expeditions to Punt (modern Somalia). Her stepson Thutmose III later tried to erase her from history.",
     "region": "luxor",
     "coordinates": [25.7381, 32.6066],
-    "imageUrl": "/images/temples/hatshepsut.jpg"
+    "imageUrl": "/images/temples/hatshepsut.jpg",
+    "images": [
+      "/images/temples/deir-el-bahari.jpg"
+    ],
+    "highlights": [
+      "Punt Colonnade—reliefs of expedition to Somalia",
+      "Hathor Chapel—cow-goddess with human face",
+      "Birth Colonnade—divine conception story",
+      "Anubis Chapel—well-preserved jackal-god reliefs",
+      "Views from top terrace—dramatic cliff backdrop"
+    ],
+    "tips": [
+      "Very hot in summer—little shade on approach",
+      "Tram available from entrance to temple (5 EGP)",
+      "45-60 mins is enough",
+      "Best combined with Valley of Kings same morning",
+      "Look for surviving Hatshepsut images—many were defaced"
+    ],
+    "bestTime": "Early morning (7-8am) for best light on the cliffs"
   },
   {
     "id": "medinet-habu",
     "name": "Medinet Habu (Temple of Ramses III)",
     "visitDate": "Feb 4",
+    "built": "~1184-1153 BC (New Kingdom, 20th Dynasty)",
     "rating": 4.8,
     "reviews": "2,500",
-    "address": "West Bank, Luxor",
+    "address": "West Bank, Luxor (near Colossi of Memnon)",
     "hours": "6am-5pm",
     "entry": "~300 EGP (~£5)",
     "mapUrl": "https://maps.google.com/?q=Medinet+Habu+Luxor",
-    "description": "Second largest temple in Egypt with best-preserved colour on reliefs. Often less crowded than Karnak—hidden gem.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Medinet_Habu_(temple)",
+    "description": "Second largest temple complex in Egypt with the best-preserved original colour on reliefs anywhere. Built by Ramses III—the last great warrior pharaoh. Vivid battle scenes depicting victories over the Sea Peoples. Often less crowded than Karnak—a hidden gem. The massive fortified gateway is unique in Egyptian architecture.",
     "region": "luxor",
     "coordinates": [25.7194, 32.6011],
-    "imageUrl": "/images/temples/medinet-habu.jpg"
+    "imageUrl": "/images/temples/medinet-habu.jpg",
+    "images": [
+      "/images/temples/ramesseum.jpg",
+      "/images/temples/seti-temple.jpg"
+    ],
+    "highlights": [
+      "Migdol gateway—Syrian-style fortified entrance (unique in Egypt)",
+      "First Court—battle reliefs still have original paint",
+      "Second Court—feast and religious scenes",
+      "Hypostyle Hall—massive columns with vibrant colours",
+      "Palace remains—royal window of appearances"
+    ],
+    "tips": [
+      "Often empty—one of the most peaceful West Bank sites",
+      "Don't skip it for Karnak—colours here are better",
+      "Combine with Colossi of Memnon (5 min drive)",
+      "Photography allowed—great for colourful shots",
+      "45 mins to 1 hour recommended"
+    ],
+    "bestTime": "Late morning (colours pop in direct sunlight)"
   },
   {
     "id": "karnak",
     "name": "Karnak Temple",
     "visitDate": "Feb 4",
+    "built": "~2055 BC - 100 AD (over 2,000 years, 30+ pharaohs)",
     "rating": 4.8,
     "reviews": "15,000+",
-    "address": "East Bank, 3km north of Luxor",
-    "hours": "6am-5pm",
+    "address": "East Bank, 3km north of Luxor city centre",
+    "hours": "6am-5pm; last entry 4pm",
     "entry": "600 EGP (~£10)",
     "mapUrl": "https://maps.google.com/?q=Karnak+Temple+Luxor",
-    "description": "Largest religious complex ever built. Massive Hypostyle Hall with 134 giant columns. Built over 2,000 years by 30 pharaohs.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karnak",
+    "description": "Largest religious complex ever built—so big you could fit 10 European cathedrals inside. Dedicated to Amun-Ra, king of the gods. The Great Hypostyle Hall contains 134 massive columns (the largest are 21m tall, 3m diameter). Built by 30 pharaohs over 2,000 years, each adding their own section. UNESCO World Heritage Site. Best visited early morning or late afternoon.",
     "region": "luxor",
     "coordinates": [25.7188, 32.6573],
-    "imageUrl": "/images/temples/karnak.jpg"
+    "imageUrl": "/images/temples/karnak.jpg",
+    "images": [
+      "/images/temples/karnak-hypostyle.jpg",
+      "/images/temples/karnak-sphinx.jpg"
+    ],
+    "highlights": [
+      "Great Hypostyle Hall—134 columns, each 3m diameter",
+      "Sacred Lake—used for ritual purification",
+      "Obelisks—Hatshepsut's 30m obelisk still stands",
+      "Scarab statue—walk around 7 times for luck",
+      "Avenue of Sphinxes—recently excavated connection to Luxor Temple"
+    ],
+    "tips": [
+      "Massive site—allow 2-3 hours minimum",
+      "Afternoon crowds thinner than morning",
+      "Hypostyle Hall best photographed when sun shafts stream through",
+      "Sound & Light show available (skip if tired)",
+      "Hire guide at entrance for context—worth it here"
+    ],
+    "bestTime": "Late afternoon (3-5pm) for shafts of light through columns"
   },
   {
     "id": "luxor-temple",
     "name": "Luxor Temple",
-    "visitDate": "Feb 3 or 4",
+    "visitDate": "Feb 3 (evening)",
+    "built": "~1400 BC by Amenhotep III, expanded by Ramses II (New Kingdom)",
     "rating": 4.8,
     "reviews": "12,000+",
-    "address": "East Bank, Luxor city centre",
+    "address": "East Bank, Luxor city centre (Nile Corniche)",
     "hours": "6am-10pm (illuminated at night)",
     "entry": "450 EGP (~£7)",
     "mapUrl": "https://maps.google.com/?q=Luxor+Temple+Egypt",
-    "description": "City centre temple connected to Karnak by Avenue of Sphinxes. Stunning when floodlit at night.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luxor_Temple",
+    "description": "City centre temple connected to Karnak by the 3km Avenue of Sphinxes (recently restored). Originally built by Amenhotep III, massively expanded by Ramses II who added the famous entrance pylons. Stunning when floodlit at night. Features colossal Ramses II statues and one remaining obelisk (its twin stands in Place de la Concorde, Paris—a gift to France in 1833).",
     "region": "luxor",
     "coordinates": [25.6996, 32.6390],
-    "imageUrl": "/images/temples/luxor-temple.jpg"
+    "imageUrl": "/images/temples/luxor-temple.jpg",
+    "images": [
+      "/images/temples/luxor-temple-night.jpg",
+      "/images/temples/luxor-temple-sw.jpg"
+    ],
+    "highlights": [
+      "Night visit—dramatically floodlit after dark",
+      "Avenue of Sphinxes—recently restored 3km processional way",
+      "Colossal Ramses II statues at entrance",
+      "Abu el-Haggag Mosque—built INTO the temple",
+      "Missing obelisk spot—twin now in Paris"
+    ],
+    "tips": [
+      "MUST visit at night—completely different experience",
+      "Walk the Avenue of Sphinxes to/from Karnak (free)",
+      "Combine with dinner at nearby Sofra restaurant",
+      "Allow 1-1.5 hours for thorough visit",
+      "Less crowded than Karnak—good evening option"
+    ],
+    "bestTime": "After dark (7-9pm) when floodlights transform the temple"
   },
   {
     "id": "dendera",
     "name": "Dendera Temple (Temple of Hathor)",
     "visitDate": "Optional day trip",
+    "built": "~54 BC - 20 AD (Late Ptolemaic/Roman period)",
     "rating": 4.9,
     "reviews": "3,600",
-    "address": "Qena, 60km north of Luxor",
-    "hours": "7am-5pm",
+    "address": "Qena, 60km north of Luxor (1.5hr drive)",
+    "hours": "7am-5pm; last entry 4pm",
     "entry": "~400 EGP (~£6)",
     "mapUrl": "https://maps.google.com/?q=Dendera+Temple+Egypt",
-    "description": "Best-preserved temple ceiling in Egypt with famous zodiac. Dedicated to Hathor, goddess of love. Rare rooftop access.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dendera_Temple_complex",
+    "description": "Best-preserved temple ceiling in Egypt with famous zodiac (original now in the Louvre). Dedicated to Hathor, goddess of love, music and joy. One of the last temples built in ancient Egypt. Rare rooftop access with stunning views. Fewer tourists than Luxor sites—peaceful experience. Often combined with Abydos.",
     "region": "daytrip",
     "coordinates": [26.1418, 32.6700],
-    "imageUrl": "/images/temples/dendera.jpg"
+    "imageUrl": "/images/temples/dendera.jpg",
+    "highlights": [
+      "Ceiling paintings—best preserved in Egypt",
+      "Zodiac relief—replica (original in Louvre)",
+      "Rooftop access—rare opportunity, stunning views",
+      "Crypts—underground chambers open to explore",
+      "Hathor columns—goddess faces carved on capitals"
+    ],
+    "tips": [
+      "Combine with Abydos for full day trip",
+      "Much less crowded than Luxor temples",
+      "Rooftop stairs steep but worth the climb",
+      "Crypts require flashlight (use phone)",
+      "Half day trip from Luxor (~3-4 hours on site)"
+    ],
+    "bestTime": "Morning departure from Luxor to avoid afternoon heat"
   },
   {
     "id": "abydos",
     "name": "Temple of Abydos & Osireion",
     "visitDate": "Optional day trip",
+    "built": "~1294-1279 BC by Seti I (New Kingdom, 19th Dynasty)",
     "rating": 4.8,
     "reviews": "470",
-    "address": "Abydos, 160km north of Luxor",
+    "address": "Abydos, ~160km north of Luxor (3hr drive)",
     "hours": "8am-5pm",
-    "entry": "~300 EGP (~£5)",
+    "entry": "~300 EGP (~£5); Osireion requires special permit",
     "mapUrl": "https://maps.google.com/?q=Abydos+Temple+Egypt",
-    "description": "Sacred burial site of Osiris. Temple of Seti I has finest reliefs in Egypt—still retaining original colours.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abydos,_Egypt",
+    "description": "Sacred burial site of Osiris (god of the afterlife)—the most important pilgrimage site in ancient Egypt. Temple of Seti I has the finest reliefs in Egypt, still retaining vivid original colours. Contains the famous Abydos King List—a chronological list of 76 pharaohs. Mysterious Osireion behind temple (restricted access). Often combined with Dendera.",
     "region": "daytrip",
     "coordinates": [26.1850, 31.9191],
-    "imageUrl": "/images/temples/abydos.jpg"
+    "imageUrl": "/images/temples/abydos.jpg",
+    "images": [
+      "/images/temples/abydos-relief.jpg"
+    ],
+    "highlights": [
+      "Abydos King List—76 pharaohs in chronological order",
+      "Seti I reliefs—finest quality carvings in Egypt",
+      "Original paint—colours preserved for 3,200 years",
+      "Seven chapels—one for each major deity",
+      "Osireion—mysterious subterranean structure (view only)"
+    ],
+    "tips": [
+      "Long drive (3hrs each way)—combine with Dendera",
+      "Worth it for serious Egyptian history fans",
+      "Very few tourists—almost private experience",
+      "Bring lunch—limited food options",
+      "Guide essential here—complex symbolism"
+    ],
+    "bestTime": "Full day trip combining with Dendera (depart 7am)"
   },
   {
     "id": "nubian-village",
@@ -185,13 +425,29 @@
     "visitDate": "Feb 1 or 2",
     "rating": 4.2,
     "reviews": "174",
-    "address": "West Bank, Aswan",
+    "address": "West Bank, Aswan (boat from Elephantine Island)",
     "hours": "Daytime visits",
-    "entry": "Free (tips expected)",
+    "entry": "Free (village); tips/purchases expected",
     "mapUrl": "https://maps.google.com/?q=Nubian+Village+Aswan",
-    "description": "Colourful traditional Nubian community. Painted houses, friendly locals, henna tattoos, crocodile encounters.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nubian_people",
+    "description": "Colourful traditional Nubian community with brightly painted houses in blues, yellows and oranges. The Nubian people have their own language, culture and traditions distinct from Arab Egypt. Friendly locals, henna tattoos, pet crocodiles, traditional food. Best reached by boat—scenic Nile trip. A living cultural experience, not an ancient monument.",
     "region": "aswan",
     "coordinates": [24.0889, 32.8899],
-    "imageUrl": "/images/temples/nubian-village.jpg"
+    "imageUrl": "/images/temples/nubian-village.jpg",
+    "highlights": [
+      "Brightly painted houses—blues, yellows, oranges",
+      "Pet crocodiles—baby crocs to hold (tip expected)",
+      "Henna tattoos—traditional Nubian designs",
+      "Traditional Nubian food—try fatta or molokhia",
+      "Nubian music—often live in evening"
+    ],
+    "tips": [
+      "Book boat through hotel or Kana Kato",
+      "Afternoon best—houses look stunning in golden light",
+      "Bring small notes for tips (10-20 EGP)",
+      "Don't feel pressured to buy souvenirs",
+      "Combine with felucca ride back to Elephantine"
+    ],
+    "bestTime": "Late afternoon for best colours on painted houses"
   }
 ]

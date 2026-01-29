@@ -1,0 +1,91 @@
+{
+  "giza": {
+    "costs": [
+      { "site": "Giza Plateau entry (Pyramids & Sphinx)", "egp": 700, "gbp": 11 },
+      { "site": "Great Pyramid interior (optional)", "egp": 1500, "gbp": 24 },
+      { "site": "Khafre Pyramid interior", "egp": 280, "gbp": 4.5 },
+      { "site": "Camel ride (negotiate)", "egp": "200-500", "gbp": "3-8" },
+      { "site": "Grand Egyptian Museum", "egp": 1000, "gbp": 16 },
+      { "site": "Egyptian Museum (Tahrir Square)", "egp": 450, "gbp": 7 }
+    ],
+    "activities": [
+      { "name": "Sound & Light Show", "description": "Pyramids illuminated with laser show & narrated history", "cost": "~£15-20pp", "duration": "1hr (evening)", "hours": "6:30pm-8pm (English)" },
+      { "name": "Camel ride at Pyramids", "description": "Classic photo op; ride around plateau", "cost": "~£5-15 (negotiate!)", "duration": "30min-1hr", "hours": "8am-5pm (site hours)" },
+      { "name": "Khan el-Khalili Bazaar", "description": "Historic souq—spices, souvenirs, jewellery, cafes", "cost": "Free entry", "duration": "2-3hrs", "hours": "9:30am-11pm daily" },
+      { "name": "Nile dinner cruise", "description": "Buffet dinner with belly dancing & music", "cost": "~£25-50pp", "duration": "2-3hrs", "hours": "7pm-10pm (typical)" },
+      { "name": "Old Cairo (Coptic Quarter)", "description": "Ancient churches, Hanging Church, Ben Ezra Synagogue", "cost": "Free-minimal", "duration": "2hrs", "hours": "9am-5pm" },
+      { "name": "Cairo Tower", "description": "360° city views from 187m observation deck", "cost": "~£5", "duration": "1hr", "hours": "9am-midnight" },
+      { "name": "Al-Azhar Park", "description": "Beautiful gardens, escape the chaos, Nile views", "cost": "~£3", "duration": "1-2hrs", "hours": "9am-10pm" },
+      { "name": "Horse riding at Pyramids", "description": "Sunset rides with pyramid backdrop", "cost": "~£15-25", "duration": "1-2hrs", "hours": "8am-5pm (site hours)" }
+    ]
+  },
+  "aswan": {
+    "costs": [
+      { "site": "Abu Simbel day trip (via hotel/tour)", "egp": "-", "gbp": "45-80pp" },
+      { "site": "Abu Simbel entry (included in most tours)", "egp": 550, "gbp": 9 },
+      { "site": "Philae Temple entry", "egp": 550, "gbp": 9 },
+      { "site": "Philae Temple boat (return)", "egp": 800, "gbp": 13 },
+      { "site": "Felucca sunset ride (1hr)", "egp": "300-400", "gbp": "5-7" }
+    ],
+    "activities": [
+      { "name": "Abu Al Hawa sunset viewpoint", "description": "West bank hilltop with panoramic Nile & city views—perfect for sunset", "cost": "Free", "duration": "1hr", "hours": "Sunset best", "mapUrl": "https://maps.google.com/?q=24.1018255,32.8892074" },
+      { "name": "Felucca sunset sail", "description": "Traditional sailboat on the Nile—magical at sunset", "cost": "~£5-10pp", "duration": "1-2hrs", "hours": "Flexible (sunset best)" },
+      { "name": "Nubian Village visit", "description": "Colourful houses, henna, crocodiles, local food", "cost": "Free + tips/purchases", "duration": "2-3hrs", "hours": "Daytime" },
+      { "name": "Aswan Souk", "description": "Spices, Nubian crafts, scarves, perfumes", "cost": "Free entry", "duration": "1-2hrs", "hours": "9am-10pm" },
+      { "name": "Botanical Garden (Kitchener's Island)", "description": "Peaceful island with exotic plants & birds", "cost": "~£5 + boat", "duration": "1-2hrs", "hours": "8am-5pm" },
+      { "name": "Unfinished Obelisk", "description": "Giant ancient obelisk abandoned in quarry", "cost": "~£8", "duration": "30min", "hours": "7am-4pm" },
+      { "name": "Aswan High Dam", "description": "Engineering marvel; views of Lake Nasser", "cost": "~£5", "duration": "30min", "hours": "8am-5pm (Fri to 2pm)" },
+      { "name": "Motorboat to Elephantine", "description": "Explore your island by water", "cost": "~£5-10", "duration": "1hr", "hours": "Daytime" },
+      { "name": "Nubian music night", "description": "Live traditional music at island restaurants", "cost": "Free with dinner", "duration": "Evening", "hours": "After sunset" }
+    ]
+  },
+  "luxor": {
+    "costs": [
+      { "site": "Valley of the Kings (3 tombs)", "egp": 770, "gbp": 12 },
+      { "site": "Tutankhamun tomb (extra)", "egp": 700, "gbp": 11 },
+      { "site": "Hatshepsut Temple", "egp": 300, "gbp": 5 },
+      { "site": "Karnak Temple", "egp": 600, "gbp": 10 },
+      { "site": "Luxor Temple", "egp": 450, "gbp": 7 },
+      { "site": "West Bank taxi (half day)", "egp": "500-800", "gbp": "8-13" }
+    ],
+    "activities": [
+      { "name": "Hot air balloon", "description": "Sunrise flight over West Bank & temples—bucket list!", "cost": "~£60-100pp", "duration": "3hrs (incl. transfer)", "hours": "~5am-8am (sunrise)" },
+      { "name": "Luxor Museum", "description": "Excellent collection, well-presented, air-conditioned", "cost": "~£12", "duration": "1-2hrs", "hours": "9am-2pm & 5pm-10pm" },
+      { "name": "Mummification Museum", "description": "Small but fascinating; mummies & embalming tools", "cost": "~£8", "duration": "1hr", "hours": "9am-2pm & 5pm-9pm" },
+      { "name": "Felucca on the Nile", "description": "Sunset sail with temple views", "cost": "~£5-10pp", "duration": "1-2hrs", "hours": "Flexible (sunset best)" },
+      { "name": "Colossi of Memnon", "description": "Two giant 18m statues (free, on route to West Bank)", "cost": "Free", "duration": "15min", "hours": "6am-5pm (outdoor)" },
+      { "name": "Banana Island", "description": "Peaceful island, banana plantations, local life", "cost": "~£10 boat", "duration": "2hrs", "hours": "Daytime" },
+      { "name": "Luxor Souk", "description": "Behind Luxor Temple; alabaster, textiles, spices", "cost": "Free entry", "duration": "1-2hrs", "hours": "9am-10pm" },
+      { "name": "Horse carriage (Calèche)", "description": "Clip-clop through town at night", "cost": "~£5-10 (negotiate)", "duration": "30min-1hr", "hours": "Daytime & evening" },
+      { "name": "Avenue of Sphinxes", "description": "Walk the 3km restored avenue between temples", "cost": "Free", "duration": "30min-1hr", "hours": "6am-10pm (illuminated)" }
+    ]
+  },
+  "hurghada": {
+    "costs": [
+      { "site": "Horse riding (1-2 hours)", "egp": "-", "gbp": "15-20pp" },
+      { "site": "Snorkeling boat trip (inc. lunch)", "egp": "-", "gbp": "16-50pp" },
+      { "site": "Orange Bay island trip", "egp": "-", "gbp": "25-40pp" },
+      { "site": "Scuba diving (single dive)", "egp": "-", "gbp": "25-50pp" },
+      { "site": "Quad bike desert safari", "egp": "-", "gbp": "16-35pp" },
+      { "site": "Parasailing", "egp": "-", "gbp": "12-30pp" },
+      { "site": "Glass bottom boat", "egp": "-", "gbp": "15-25pp" },
+      { "site": "Dolphin House snorkel trip", "egp": "-", "gbp": "25-40pp" }
+    ],
+    "activities": [
+      { "name": "Snorkeling boat trip", "description": "Coral reefs, tropical fish, lunch included", "cost": "~£20-50pp", "duration": "Full day", "hours": "8am-4pm (typical)" },
+      { "name": "Giftun Island", "description": "National park island; pristine beaches, snorkeling", "cost": "~£30-50pp", "duration": "Full day", "hours": "8am-4pm (park hours)" },
+      { "name": "Orange Bay", "description": "Turquoise lagoon, beach day, water sports", "cost": "~£25-40pp", "duration": "Full day", "hours": "9am-5pm" },
+      { "name": "Dolphin House", "description": "Snorkel spot where dolphins often visit", "cost": "~£25-40pp", "duration": "Half day", "hours": "Morning trips" },
+      { "name": "Horse riding", "description": "Beach or desert rides, sunset options", "cost": "~£15-20pp", "duration": "1-2hrs", "hours": "7am-6pm (stables)" },
+      { "name": "Quad bike safari", "description": "Desert adventure, Bedouin tea, sunset", "cost": "~£20-35pp", "duration": "3-4hrs", "hours": "Morning or 3pm" },
+      { "name": "Scuba diving", "description": "Intro dives for beginners or certified dives", "cost": "~£30-60pp", "duration": "Half day", "hours": "8am-4pm" },
+      { "name": "Glass bottom boat", "description": "See coral without getting wet", "cost": "~£15-25pp", "duration": "2hrs", "hours": "9am-5pm" },
+      { "name": "Parasailing", "description": "Fly over the Red Sea", "cost": "~£15-30pp", "duration": "15min", "hours": "9am-5pm" },
+      { "name": "Submarine tour", "description": "Underwater viewing without diving", "cost": "~£40-60pp", "duration": "2hrs", "hours": "9am-3pm" },
+      { "name": "Kitesurfing/Windsurfing", "description": "Soma Bay is world-famous for wind sports", "cost": "~£50-80 lesson", "duration": "2-3hrs", "hours": "9am-5pm" },
+      { "name": "Desert stargazing", "description": "Bedouin camp, BBQ dinner, stars", "cost": "~£30-50pp", "duration": "Evening", "hours": "4pm pickup" },
+      { "name": "Spa day", "description": "Most resorts have spas; massages, hammam", "cost": "~£30-80", "duration": "2-3hrs", "hours": "9am-9pm (resort)" },
+      { "name": "Al Mamsha Promenade", "description": "Evening walk, shops, restaurants, people-watching", "cost": "Free", "duration": "1-2hrs", "hours": "24hrs (shops 10am-midnight)" }
+    ]
+  }
+}
