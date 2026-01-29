@@ -36,6 +36,48 @@
     "bestTime": "Early morning (8-10am) for fewer crowds and cooler temperatures"
   },
   {
+    "id": "grand-egyptian-museum",
+    "name": "Grand Egyptian Museum (GEM)",
+    "visitDate": "Jan 31",
+    "built": "2024 (houses artifacts from 3000 BC onwards)",
+    "rating": 4.9,
+    "reviews": "5,000+",
+    "address": "Al Remaya Square, Pyramids, Giza, Egypt",
+    "hours": "9am-7pm (last entry 5pm)",
+    "entry": "LE 1,450 (~£23) foreigners; includes main galleries",
+    "mapUrl": "https://maps.google.com/?q=Grand+Egyptian+Museum",
+    "officialUrl": "https://grandegyptianmuseum.org/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grand_Egyptian_Museum",
+    "description": "The world's largest archaeological museum, opened 2024. Houses over 100,000 artifacts including the complete Tutankhamun collection (5,000+ items, many never displayed before). The building alone is spectacular—a billion-dollar facility at the foot of the Giza pyramids. The atrium features a 12-metre Ramses II statue. Essential for understanding what you'll see at the temples.",
+    "region": "giza",
+    "coordinates": [29.9950, 31.1175],
+    "imageUrl": "/images/temples/gem.jpg",
+    "highlights": [
+      "Tutankhamun galleries—complete tomb contents, golden mask",
+      "Grand Staircase—giant statues leading to main halls",
+      "Ramses II colossus—12m statue in the Grand Atrium",
+      "Royal Mummies Hall—pharaohs face to face",
+      "Pyramid views—spectacular backdrop from the terraces"
+    ],
+    "tips": [
+      "Book tickets online in advance—required",
+      "Allow 3-4 hours minimum (you could spend all day)",
+      "Tutankhamun galleries are the highlight—don't rush",
+      "Audio guide worth it for context",
+      "Afternoon/evening visit avoids peak crowds",
+      "Café and restaurants on site with pyramid views"
+    ],
+    "bestTime": "Late afternoon (5pm entry) for sunset pyramid views from terraces",
+    "booking": {
+      "reservationNumber": "BMMVRBRW",
+      "bookingCode": "64243S2393139Y",
+      "entryTime": "17:00",
+      "ticketType": "GEM Access - Other Nationality - Adult",
+      "price": "LE 1,450.00",
+      "guest": "Romilly Eveleigh"
+    }
+  },
+  {
     "id": "abu-simbel",
     "name": "Abu Simbel Temples",
     "visitDate": "Feb 2",
