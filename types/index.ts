@@ -9,6 +9,9 @@ export interface Day {
   location: string;
   hotel?: string;
   activities: Activity[];
+  summary?: string;
+  tips?: string[];
+  notes?: string;
 }
 
 export interface Temple {

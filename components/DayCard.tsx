@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { ChevronDown, ChevronUp, Hotel } from "lucide-react";
+import { ChevronDown, Hotel, Lightbulb } from "lucide-react";
 import { Day } from "@/types";
 
 interface DayCardProps {
@@ -52,6 +52,10 @@ export default function DayCard({ day, isToday }: DayCardProps) {
 
       {expanded && (
         <div className="px-4 pb-4 border-t border-slate/5">
+          {day.summary && (
+            <p className="mt-4 text-sm text-slate-light/80 italic">{day.summary}</p>
+          )}
+
           <ul className="mt-4 space-y-3">
             {day.activities.map((activity, idx) => (
               <li key={idx} className="flex gap-3 text-sm">
@@ -62,6 +66,27 @@ export default function DayCard({ day, isToday }: DayCardProps) {
               </li>
             ))}
           </ul>
+
+          {day.tips && day.tips.length > 0 && (
+            <div className="mt-4 bg-teal/5 rounded-xl p-3">
+              <div className="flex items-center gap-2 text-teal font-medium text-sm mb-2">
+                <Lightbulb size={16} />
+                Tips for the day
+              </div>
+              <ul className="text-sm text-slate-light space-y-1">
+                {day.tips.map((tip, idx) => (
+                  <li key={idx} className="flex items-start gap-2">
+                    <span className="text-teal">•</span>
+                    {tip}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {day.notes && (
+            <p className="mt-3 text-xs text-slate-light/60">{day.notes}</p>
+          )}
         </div>
       )}
     </div>

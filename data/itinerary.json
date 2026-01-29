@@ -4,12 +4,19 @@
     "dayOfWeek": "Friday",
     "location": "Cairo/Giza",
     "hotel": "Great Pyramid Inn",
+    "summary": "Travel day from London to Cairo. Arrive late afternoon and transfer to your hotel with stunning pyramid views.",
     "activities": [
       { "time": "09:40", "description": "Depart London Heathrow (EgyptAir MS784)" },
       { "time": "16:30", "description": "Arrive Cairo Airport (CAI)" },
       { "time": "~17:30-19:00", "description": "Transfer to hotel" },
       { "time": "From 14:00", "description": "Check-in Great Pyramid Inn" },
       { "time": "Evening", "description": "Settle in, rooftop pyramid views, dinner" }
+    ],
+    "tips": [
+      "Keep passport and boarding pass easily accessible",
+      "Have Egyptian pounds ready for tips (or get cash at the airport ATM)",
+      "The hotel transfer can take 1-2 hours depending on traffic",
+      "Don't plan anything strenuous - jet lag will kick in!"
     ]
   },
   {
@@ -17,10 +24,18 @@
     "dayOfWeek": "Saturday",
     "location": "Giza/Cairo",
     "hotel": "Great Pyramid Inn",
+    "summary": "Full day exploring the ancient wonders of Giza and the Egyptian Museum. This is your main pyramid day!",
     "activities": [
       { "time": "08:00-12:00", "description": "Explore Giza Pyramids & Sphinx" },
       { "time": "Afternoon", "description": "Egyptian Museum (Grand Egyptian Museum or old museum at Tahrir Square)" },
       { "time": "Evening", "description": "Relax at hotel" }
+    ],
+    "tips": [
+      "Arrive at the pyramids early (8am) to beat the crowds and heat",
+      "Bring a scarf or hat - the sun is intense even in winter",
+      "Agree on prices BEFORE taking camel/horse rides",
+      "The Grand Egyptian Museum requires advance booking - check availability",
+      "Stay hydrated and carry water with you"
     ]
   },
   {
@@ -28,6 +43,7 @@
     "dayOfWeek": "Sunday",
     "location": "Aswan",
     "hotel": "Kana Kato",
+    "summary": "Very early start! Fly to Aswan and settle into your beautiful Nubian guesthouse on Elephantine Island. Afternoon temple visit and sunset sail.",
     "activities": [
       { "time": "~03:30", "description": "Check-out Great Pyramid Inn (early departure)" },
       { "time": "~04:00", "description": "Transfer to Cairo Airport" },
@@ -37,6 +53,13 @@
       { "time": "From 12:00", "description": "Check-in Kana Kato (room may be ready earlier)" },
       { "time": "Afternoon", "description": "Philae Temple (Temple of Isis)" },
       { "time": "Evening", "description": "Felucca sunset sail" }
+    ],
+    "tips": [
+      "Pack a small bag the night before for the early morning",
+      "Sleep on the plane if you can - it's a short flight",
+      "Kana Kato is reached by motorboat - they'll meet you at the dock",
+      "Book the felucca ride through your guesthouse for best prices",
+      "Philae Temple is on an island - allow extra time for the boat transfer"
     ]
   },
   {
@@ -44,6 +67,7 @@
     "dayOfWeek": "Monday",
     "location": "Aswan/Abu Simbel",
     "hotel": "Kana Kato",
+    "summary": "Another very early start for the Abu Simbel day trip - but the temples are absolutely worth it! Rest and recover in the afternoon.",
     "activities": [
       { "time": "~03:30", "description": "Pick-up from hotel (Abu Simbel day trip)" },
       { "time": "~04:00", "description": "Depart Aswan in convoy" },
@@ -53,6 +77,13 @@
       { "time": "~13:00", "description": "Return to Aswan" },
       { "time": "Afternoon", "description": "Explore island, Nile views, rest after early start" },
       { "time": "Evening", "description": "Relax at hotel" }
+    ],
+    "tips": [
+      "Go to bed early the night before - you need to leave at 3:30am!",
+      "Bring snacks and water for the 3-hour drive each way",
+      "The convoy system means everyone leaves and returns together",
+      "Sunrise at Abu Simbel is magical - the temples face east",
+      "Plan a nap in the afternoon - you'll need it after the early start"
     ]
   },
   {
@@ -60,6 +91,7 @@
     "dayOfWeek": "Tuesday",
     "location": "Luxor",
     "hotel": "Steigenberger Resort Achti",
+    "summary": "Road trip day! Drive from Aswan to Luxor, stopping at two incredible temples along the Nile. Evening visit to Luxor Temple when it's beautifully lit.",
     "activities": [
       { "time": "~08:00", "description": "Check-out Kana Kato (early departure)" },
       { "time": "~08:30", "description": "Depart Aswan by car" },
@@ -74,6 +106,13 @@
       { "time": "16:00-18:00", "description": "Rest & freshen up after long day" },
       { "time": "~18:30-20:30", "description": "Luxor Temple (floodlit at night - best time to visit)" },
       { "time": "21:00", "description": "Nile-side dinner" }
+    ],
+    "tips": [
+      "Pack your day bag with essentials - main luggage goes in the car",
+      "Kom Ombo's crocodile museum is small but fascinating",
+      "Edfu Temple is the best-preserved in Egypt - take your time here",
+      "Rest at the hotel before Luxor Temple - the night visit is special",
+      "Luxor Temple is magical at night - the floodlighting is stunning"
     ]
   },
   {
@@ -81,6 +120,7 @@
     "dayOfWeek": "Wednesday",
     "location": "Luxor",
     "hotel": "Steigenberger Resort Achti",
+    "summary": "The big temple day! Start early at Valley of the Kings, then hit the West Bank highlights before afternoon at mighty Karnak.",
     "activities": [
       { "time": "06:00-09:00", "description": "Valley of the Kings" },
       { "time": "09:30-10:30", "description": "Hatshepsut Temple" },
@@ -88,6 +128,14 @@
       { "time": "12:30-13:30", "description": "Lunch" },
       { "time": "15:00-18:00", "description": "Karnak Temple" },
       { "time": "Evening", "description": "Relax at resort" }
+    ],
+    "tips": [
+      "Valley of the Kings opens at 6am - be first in line to avoid crowds",
+      "Your ticket includes 3 tombs - choose wisely (Ramses VI is stunning)",
+      "Tutankhamun's tomb requires a separate ticket",
+      "The West Bank sites are close together - easy to visit in sequence",
+      "Save Karnak for late afternoon when the light is golden",
+      "Wear comfortable shoes - you'll walk a lot today!"
     ]
   },
   {
@@ -95,11 +143,19 @@
     "dayOfWeek": "Thursday",
     "location": "Hurghada (Soma Bay)",
     "hotel": "Sharm El Naga Resort",
+    "summary": "Time to relax! Long drive to the Red Sea coast, then straight into beach and snorkelling mode at Sharm El Naga.",
     "activities": [
       { "time": "By 12:00", "description": "Check-out Steigenberger Resort Achti" },
       { "time": "12:00-17:00", "description": "Transfer to Hurghada (~4-5h drive)" },
       { "time": "~17:00", "description": "Arrive & check-in Sharm El Naga Resort" },
       { "time": "Evening", "description": "Beach, house reef snorkelling" }
+    ],
+    "tips": [
+      "The drive is long but scenic - bring entertainment",
+      "Stop for lunch on the way or bring snacks",
+      "Sharm El Naga has an incredible house reef - bring your mask!",
+      "The snorkelling is best in the late afternoon when it's not too hot",
+      "This is your transition from temples to beach - embrace the slower pace"
     ]
   },
   {
@@ -107,12 +163,19 @@
     "dayOfWeek": "Friday",
     "location": "Hurghada",
     "hotel": "Iberotel Casa Del Mar",
+    "summary": "Short transfer to central Hurghada and your all-inclusive resort. Time to fully unwind!",
     "activities": [
       { "time": "By 12:00", "description": "Check-out Sharm El Naga" },
       { "time": "12:00-13:30", "description": "Transfer to central Hurghada (~45-60 min)" },
       { "time": "From 14:00", "description": "Check-in Iberotel Casa Del Mar (early 12:00-13:00 requested)" },
       { "time": "Afternoon", "description": "Beach, pool, explore promenade" },
       { "time": "Evening", "description": "All-inclusive dining" }
+    ],
+    "tips": [
+      "You've requested early check-in - call ahead to confirm",
+      "The promenade (Marina Boulevard) is nice for an evening stroll",
+      "Take advantage of the all-inclusive - try different restaurants",
+      "Book your horse ride for tomorrow at the hotel reception"
     ]
   },
   {
@@ -120,15 +183,23 @@
     "dayOfWeek": "Saturday",
     "location": "Hurghada",
     "hotel": "Iberotel Casa Del Mar",
+    "summary": "Your last full day in Egypt! Enjoy a beach or desert horse ride, then soak up the final hours of sunshine.",
     "activities": [
       { "time": "Morning/Afternoon", "description": "Horse ride (beach/desert, 1-3 hours, book via hotel)" },
       { "time": "Rest of day", "description": "Beach, pool, resort relaxation" }
+    ],
+    "tips": [
+      "Book the horse ride in advance - morning is cooler",
+      "Beach rides are beautiful at sunrise or sunset",
+      "Start packing tonight to avoid morning stress",
+      "Enjoy your last Egyptian sunset!"
     ]
   },
   {
     "date": "2026-02-08",
     "dayOfWeek": "Sunday",
     "location": "Return to London",
+    "summary": "Homeward bound! Allow plenty of time for the airport - check-in closes 60 minutes before departure.",
     "activities": [
       { "time": "By 12:00", "description": "Check-out Iberotel Casa Del Mar" },
       { "time": "12:00-14:00", "description": "Transfer to Hurghada Airport Terminal 1" },
@@ -136,6 +207,12 @@
       { "time": "16:45", "description": "Check-in closes (60 mins before departure)" },
       { "time": "17:45", "description": "Depart Hurghada (easyJet EZY8744)" },
       { "time": "21:45", "description": "Arrive London Gatwick (North Terminal)" }
+    ],
+    "tips": [
+      "Double-check you have passports and all valuables",
+      "Leave plenty of time - airport security can be slow",
+      "Spend any remaining Egyptian pounds at the airport",
+      "The flight is about 5 hours - bring entertainment"
     ],
     "notes": "Seats: Lynn 9D, Romilly 9E"
   }
