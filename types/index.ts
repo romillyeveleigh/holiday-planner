@@ -34,6 +34,7 @@ export interface Temple {
   tips?: string[];
   bestTime?: string;
   wikipedia?: string;
+  officialUrl?: string;
 }
 
 export interface Restaurant {

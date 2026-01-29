@@ -12,8 +12,8 @@
     "checkOut": "Until 12:00",
     "price": "£77.77",
     "cancellation": "Free until 23:59 Jan 29; from Jan 30: £76 fee",
-    "coordinates": [29.9753, 31.1376],
-    "mapsUrl": "https://www.google.com/maps?q=29.9753,31.1376"
+    "coordinates": [29.9747, 31.1410],
+    "mapsUrl": "https://www.google.com/maps?q=29.9747,31.1410"
   },
   {
     "name": "Kana Kato",
@@ -43,8 +43,8 @@
     "price": "£183.29",
     "cancellation": "Free until 23:59 Feb 2; from Feb 3: £179 fee",
     "specialRequest": "Double bed",
-    "coordinates": [25.6970, 32.6450],
-    "mapsUrl": "https://www.google.com/maps?q=25.6970,32.6450"
+    "coordinates": [25.6826, 32.6277],
+    "mapsUrl": "https://www.google.com/maps?q=25.6826,32.6277"
   },
   {
     "name": "Sharm El Naga Resort",
@@ -57,8 +57,8 @@
     "price": "£38",
     "cancellation": "Free cancellation",
     "website": "www.sharmelnaga.com",
-    "coordinates": [26.8500, 33.9700],
-    "mapsUrl": "https://www.google.com/maps?q=26.8500,33.9700"
+    "coordinates": [26.9009, 33.9618],
+    "mapsUrl": "https://www.google.com/maps?q=26.9009,33.9618"
   },
   {
     "name": "Iberotel Casa Del Mar",

@@ -24,6 +24,10 @@ const sectionOrder: SectionKey[] = [
 
 export default function TipsPage() {
   const [openSections, setOpenSections] = useState<Set<string>>(new Set(["visa", "money"]));
+  const [egpAmount, setEgpAmount] = useState<string>("");
+
+  const EGP_TO_GBP_RATE = 0.0155; // ~64.5 EGP = 1 GBP (Jan 2026)
+  const gbpAmount = egpAmount ? (parseFloat(egpAmount) * EGP_TO_GBP_RATE).toFixed(2) : "";
 
   const toggleSection = (key: string) => {
     const newOpen = new Set(openSections);
@@ -199,7 +203,6 @@ export default function TipsPage() {
         );
 
       case "visa":
-      case "money":
         return (
           <div className="pt-3 space-y-2">
             {section.items.map((item: any, idx: number) => (
@@ -208,6 +211,47 @@ export default function TipsPage() {
                 <span className="text-gray-600">{item.value}</span>
               </div>
             ))}
+          </div>
+        );
+
+      case "money":
+        return (
+          <div className="pt-3 space-y-4">
+            <div className="space-y-2">
+              {section.items.map((item: any, idx: number) => (
+                <div key={idx} className="text-sm">
+                  <span className="font-medium text-slate">{item.label}:</span>{" "}
+                  <span className="text-gray-600">{item.value}</span>
+                </div>
+              ))}
+            </div>
+            <div className="bg-gray-50 rounded-lg p-3">
+              <label className="text-sm font-medium text-slate block mb-2">Currency Converter</label>
+              <div className="flex items-center gap-2">
+                <div className="flex-1">
+                  <div className="relative">
+                    <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm">E£</span>
+                    <input
+                      type="number"
+                      value={egpAmount}
+                      onChange={(e) => setEgpAmount(e.target.value)}
+                      placeholder="0"
+                      className="w-full pl-8 pr-3 py-2 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-teal/50"
+                    />
+                  </div>
+                </div>
+                <span className="text-gray-400">=</span>
+                <div className="flex-1">
+                  <div className="relative">
+                    <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm">£</span>
+                    <div className="w-full pl-8 pr-3 py-2 bg-white border border-gray-200 rounded-lg text-sm text-slate">
+                      {gbpAmount || "0.00"}
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <p className="text-xs text-gray-400 mt-2">Rate: 1 GBP ≈ 64.5 EGP</p>
+            </div>
           </div>
         );
 

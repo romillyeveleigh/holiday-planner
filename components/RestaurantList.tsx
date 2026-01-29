@@ -7,6 +7,7 @@ interface Restaurant {
   price?: string;
   type: string;
   notes?: string;
+  area?: string;
 }
 
 interface RestaurantListProps {
@@ -25,7 +26,14 @@ export default function RestaurantList({ restaurants, location }: RestaurantList
           <div className="flex justify-between items-start">
             <div>
               <h3 className="font-semibold text-slate">{restaurant.name}</h3>
-              <p className="text-sm text-slate-light/70">{restaurant.type}</p>
+              <div className="flex items-center gap-2">
+                <p className="text-sm text-slate-light/70">{restaurant.type}</p>
+                {restaurant.area && (
+                  <span className="text-xs bg-teal/10 text-teal px-2 py-0.5 rounded-full">
+                    {restaurant.area}
+                  </span>
+                )}
+              </div>
             </div>
             <div className="flex items-center gap-1 text-sm bg-amber-50 px-2 py-1 rounded-full">
               <Star size={14} className="fill-amber-400 text-amber-400" />

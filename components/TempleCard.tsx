@@ -172,6 +172,16 @@ export default function TempleCard({ temple }: TempleCardProps) {
               >
                 <MapPin size={14} /> Google Maps <ExternalLink size={12} />
               </a>
+              {temple.officialUrl && (
+                <a
+                  href={temple.officialUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 text-amber-600 hover:text-amber-800"
+                >
+                  <Ticket size={14} /> Official Site <ExternalLink size={12} />
+                </a>
+              )}
               {temple.wikipedia && (
                 <a
                   href={temple.wikipedia}
