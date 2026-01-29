@@ -1,55 +1,472 @@
 {
   "giza": [
-    { "name": "9 Pyramids Lounge", "rating": 4.5, "type": "Egyptian", "notes": "On plateau with pyramid views", "coordinates": [29.9721, 31.1255] },
-    { "name": "Khufu's", "rating": 4.5, "type": "Upscale Egyptian", "notes": "Pyramid views, reservations needed", "coordinates": [29.9788, 31.1342] },
-    { "name": "Marriott Mena House", "rating": 4.5, "type": "Multiple", "notes": "Garden dining with pyramid backdrop", "coordinates": [29.9844, 31.1332] },
-    { "name": "El Dar Darak", "rating": 4.5, "price": "E£400-600", "type": "Egyptian", "notes": "Traditional, 20+ years", "coordinates": [29.9761, 31.1443] },
-    { "name": "Zeeyara", "rating": 4.5, "type": "Egyptian", "notes": "Rooftop, camel meatballs" },
-    { "name": "Zaman Restaurant", "rating": 4.9, "reviews": 370, "price": "E£200-400", "type": "Arab/Grills" },
-    { "name": "Boom Restaurant", "rating": 4.9, "reviews": 453, "price": "E£200-400", "type": "General" },
-    { "name": "Farsha Pyramids Cafe", "rating": 4.8, "reviews": 422, "price": "E£400-600", "type": "Pyramid views" },
-    { "name": "Royal Lotus Restaurant", "rating": 4.8, "reviews": 159, "price": "E£200-400", "type": "Family" },
-    { "name": "Nino Sandwich Shop", "rating": 4.8, "reviews": 565, "price": "E£200-400", "type": "Sandwiches" },
-    { "name": "Pyramids Cave Lounge", "rating": 4.8, "reviews": 232, "price": "E£400-600", "type": "Lounge" },
-    { "name": "Tona Fish Restaurant", "rating": 4.7, "reviews": 134, "type": "Seafood" },
-    { "name": "Sahara Lounge", "rating": 4.6, "reviews": 239, "type": "General" },
-    { "name": "Rooftop 7000", "rating": 4.5, "reviews": 3515, "type": "Views" },
-    { "name": "Tasty House Egypt", "rating": 4.5, "reviews": 1467, "type": "Buffet" }
+    {
+      "name": "9 Pyramids Lounge",
+      "rating": 4.5,
+      "type": "Egyptian",
+      "notes": "On plateau with pyramid views",
+      "coordinates": [
+        29.9721,
+        31.1255
+      ]
+    },
+    {
+      "name": "Khufu's",
+      "rating": 4.5,
+      "type": "Upscale Egyptian",
+      "notes": "Pyramid views, reservations needed",
+      "coordinates": [
+        29.9788,
+        31.1342
+      ]
+    },
+    {
+      "name": "Marriott Mena House",
+      "rating": 4.5,
+      "type": "Multiple",
+      "notes": "Garden dining with pyramid backdrop",
+      "coordinates": [
+        29.9844,
+        31.1332
+      ]
+    },
+    {
+      "name": "El Dar Darak",
+      "rating": 4.5,
+      "price": "E£400-600",
+      "type": "Egyptian",
+      "notes": "Traditional, 20+ years",
+      "coordinates": [
+        29.9761,
+        31.1443
+      ]
+    },
+    {
+      "name": "Zeeyara",
+      "rating": 4.5,
+      "type": "Egyptian",
+      "notes": "Rooftop, camel meatballs",
+      "coordinates": [
+        29.9853225,
+        31.1366344
+      ]
+    },
+    {
+      "name": "Zaman Restaurant",
+      "rating": 4.9,
+      "reviews": 370,
+      "price": "E£200-400",
+      "type": "Arab/Grills",
+      "coordinates": [
+        30.0338038,
+        31.2116698
+      ]
+    },
+    {
+      "name": "Boom Restaurant",
+      "rating": 4.9,
+      "reviews": 453,
+      "price": "E£200-400",
+      "type": "General",
+      "coordinates": [
+        29.9784985,
+        31.1439769
+      ]
+    },
+    {
+      "name": "Farsha Pyramids Cafe",
+      "rating": 4.8,
+      "reviews": 422,
+      "price": "E£400-600",
+      "type": "Pyramid views",
+      "coordinates": [
+        29.9734497,
+        31.14495239999999
+      ]
+    },
+    {
+      "name": "Royal Lotus Restaurant",
+      "rating": 4.8,
+      "reviews": 159,
+      "price": "E£200-400",
+      "type": "Family",
+      "coordinates": [
+        29.99051429999999,
+        31.1301937
+      ]
+    },
+    {
+      "name": "Nino Sandwich Shop",
+      "rating": 4.8,
+      "reviews": 565,
+      "price": "E£200-400",
+      "type": "Sandwiches",
+      "coordinates": [
+        29.9756833,
+        31.1422502
+      ]
+    },
+    {
+      "name": "Pyramids Cave Lounge",
+      "rating": 4.8,
+      "reviews": 232,
+      "price": "E£400-600",
+      "type": "Lounge",
+      "coordinates": [
+        29.9757181,
+        31.1418635
+      ]
+    },
+    {
+      "name": "Tona Fish Restaurant",
+      "rating": 4.7,
+      "reviews": 134,
+      "type": "Seafood",
+      "coordinates": [
+        29.9782361,
+        31.1460932
+      ]
+    },
+    {
+      "name": "Sahara Lounge",
+      "rating": 4.6,
+      "reviews": 239,
+      "type": "General",
+      "coordinates": [
+        29.9745142,
+        31.1410285
+      ]
+    },
+    {
+      "name": "Rooftop 7000",
+      "rating": 4.5,
+      "reviews": 3515,
+      "type": "Views",
+      "coordinates": [
+        29.97458899999999,
+        31.1410312
+      ]
+    },
+    {
+      "name": "Tasty House Egypt",
+      "rating": 4.5,
+      "reviews": 1467,
+      "type": "Buffet",
+      "coordinates": [
+        29.9875216,
+        31.1325601
+      ]
+    }
   ],
   "aswan": [
-    { "name": "Bob Marley Moonlight Terrace", "rating": 4.8, "type": "Egyptian", "notes": "Best on Elephantine, tagines & koftas" },
-    { "name": "Nubian Dreams Restaurant", "rating": 4.5, "type": "Egyptian/Nubian", "notes": "Stunning Nile views" },
-    { "name": "Basmatic Nubian Restaurant", "rating": 4.5, "type": "Nubian", "notes": "Rooftop terrace" },
-    { "name": "King Jamaica Restaurant", "rating": 4.5, "type": "Mixed", "notes": "Free ferry from mainland" },
-    { "name": "Mövenpick Panoramic Restaurant", "rating": 4.5, "type": "International", "notes": "Tower restaurant" }
+    {
+      "name": "Bob Marley Moonlight Terrace",
+      "rating": 4.8,
+      "type": "Egyptian",
+      "notes": "Best on Elephantine, tagines & koftas",
+      "coordinates": [
+        24.0904587,
+        32.8910269
+      ]
+    },
+    {
+      "name": "Nubian Dreams Restaurant",
+      "rating": 4.5,
+      "type": "Egyptian/Nubian",
+      "notes": "Stunning Nile views",
+      "coordinates": [
+        24.089391,
+        32.8906208
+      ]
+    },
+    {
+      "name": "Basmatic Nubian Restaurant",
+      "rating": 4.5,
+      "type": "Nubian",
+      "notes": "Rooftop terrace",
+      "coordinates": [
+        24.0873395,
+        32.885014
+      ]
+    },
+    {
+      "name": "King Jamaica Restaurant",
+      "rating": 4.5,
+      "type": "Mixed",
+      "notes": "Free ferry from mainland",
+      "coordinates": [
+        24.0893254,
+        32.8910096
+      ]
+    },
+    {
+      "name": "Mövenpick Panoramic Restaurant",
+      "rating": 4.5,
+      "type": "International",
+      "notes": "Tower restaurant",
+      "coordinates": [
+        24.0932909,
+        32.8915469
+      ]
+    }
   ],
   "luxor": [
-    { "name": "Sofra Restaurant", "rating": 4.8, "type": "Egyptian", "notes": "1930s house, cooking lessons" },
-    { "name": "Al Sahaby Lane Restaurant", "rating": 4.7, "type": "Egyptian", "notes": "Rooftop, temple views" },
-    { "name": "Restaurant El-Kababgy", "rating": 4.6, "type": "Egyptian", "notes": "Nile views, live guitar" },
-    { "name": "The Lantern Room", "rating": 4.7, "type": "British/Egyptian", "notes": "Cozy, large portions" },
-    { "name": "1886 Restaurant", "rating": 4.8, "type": "Fine Dining", "notes": "Winter Palace, formal", "coordinates": [25.6967, 32.6372] },
-    { "name": "El Hussein Restaurant", "rating": 4.5, "reviews": 800, "type": "Egyptian", "notes": "200m from Karnak, local favourite" },
-    { "name": "Olives Restaurant", "rating": 4.4, "reviews": 450, "type": "Mediterranean", "notes": "Near Karnak, garden seating" },
-    { "name": "El Tawab Restaurant", "rating": 4.3, "reviews": 380, "type": "Egyptian/Coffee", "notes": "By Karnak, grilled meats" }
+    {
+      "name": "Sofra Restaurant",
+      "rating": 4.8,
+      "type": "Egyptian",
+      "notes": "1930s house, cooking lessons",
+      "coordinates": [
+        25.6948529,
+        32.6424049
+      ]
+    },
+    {
+      "name": "Al Sahaby Lane Restaurant",
+      "rating": 4.7,
+      "type": "Egyptian",
+      "notes": "Rooftop, temple views",
+      "coordinates": [
+        25.7016124,
+        32.6421777
+      ]
+    },
+    {
+      "name": "Restaurant El-Kababgy",
+      "rating": 4.6,
+      "type": "Egyptian",
+      "notes": "Nile views, live guitar",
+      "coordinates": [
+        25.6967828,
+        32.6362213
+      ]
+    },
+    {
+      "name": "The Lantern Room",
+      "rating": 4.7,
+      "type": "British/Egyptian",
+      "notes": "Cozy, large portions",
+      "coordinates": [
+        25.6874577,
+        32.6327588
+      ]
+    },
+    {
+      "name": "1886 Restaurant",
+      "rating": 4.8,
+      "type": "Fine Dining",
+      "notes": "Winter Palace, formal",
+      "coordinates": [
+        25.6967,
+        32.6372
+      ]
+    },
+    {
+      "name": "El Hussein Restaurant",
+      "rating": 4.5,
+      "reviews": 800,
+      "type": "Egyptian",
+      "notes": "200m from Karnak, local favourite",
+      "coordinates": [
+        25.7274608,
+        32.6577462
+      ]
+    },
+    {
+      "name": "Olives Restaurant",
+      "rating": 4.4,
+      "reviews": 450,
+      "type": "Mediterranean",
+      "notes": "Near Karnak, garden seating",
+      "coordinates": [
+        25.730004,
+        32.6557935
+      ]
+    },
+    {
+      "name": "El Tawab Restaurant",
+      "rating": 4.3,
+      "reviews": 380,
+      "type": "Egyptian/Coffee",
+      "notes": "By Karnak, grilled meats",
+      "coordinates": [
+        25.7203277,
+        32.6527561
+      ]
+    }
   ],
   "soma-bay": [
-    { "name": "SOBAR Somabay", "rating": 4.5, "type": "Casual", "notes": "Marina views, great carrot cake" },
-    { "name": "Maya Beach Restaurant", "rating": 4.5, "type": "Beach", "notes": "Steigenberger Ras Soma" },
-    { "name": "Arabesque", "rating": 4.6, "type": "Lebanese", "notes": "Highly rated" },
-    { "name": "Sheraton Soma Bay", "rating": 4.5, "type": "Multiple", "notes": "Italian, seafood, Asian" },
-    { "name": "Kempinski Hotel Soma Bay", "rating": 4.7, "type": "Fine Dining", "notes": "Best in Soma Bay", "coordinates": [26.8579, 33.9881] }
+    {
+      "name": "SOBAR Somabay",
+      "rating": 4.5,
+      "type": "Casual",
+      "notes": "Marina views, great carrot cake",
+      "coordinates": [
+        26.8491978,
+        33.9853384
+      ]
+    },
+    {
+      "name": "Maya Beach Restaurant",
+      "rating": 4.5,
+      "type": "Beach",
+      "notes": "Steigenberger Ras Soma",
+      "coordinates": [
+        26.8621911,
+        33.9628571
+      ]
+    },
+    {
+      "name": "Arabesque",
+      "rating": 4.6,
+      "type": "Lebanese",
+      "notes": "Highly rated",
+      "coordinates": [
+        26.8626519,
+        33.9627746
+      ]
+    },
+    {
+      "name": "Sheraton Soma Bay",
+      "rating": 4.5,
+      "type": "Multiple",
+      "notes": "Italian, seafood, Asian",
+      "coordinates": [
+        27.2578957,
+        33.8116067
+      ]
+    },
+    {
+      "name": "Kempinski Hotel Soma Bay",
+      "rating": 4.7,
+      "type": "Fine Dining",
+      "notes": "Best in Soma Bay",
+      "coordinates": [
+        26.8579,
+        33.9881
+      ]
+    }
   ],
   "hurghada": [
-    { "name": "Moby Dick Restaurant", "rating": 4.7, "reviews": 1850, "type": "International", "notes": "Famous camel steak, Sheraton Rd", "area": "Center", "coordinates": [27.2279, 33.8384] },
-    { "name": "The Lodge", "rating": 4.6, "reviews": 1420, "type": "Steakhouse", "notes": "Best steaks, ski lodge vibe, Marina", "area": "Center" },
-    { "name": "Grill & Chill", "rating": 4.6, "reviews": 980, "type": "Grill", "notes": "Quality cuts, Marina views", "area": "Center" },
-    { "name": "The Heaven Restaurant", "rating": 4.5, "reviews": 1120, "type": "Mediterranean", "notes": "Sea views, Marina Boulevard", "area": "Center" },
-    { "name": "Starfish Seafood", "rating": 4.4, "reviews": 1650, "type": "Seafood", "notes": "Pick your fish, fresh daily", "area": "Center" },
-    { "name": "Felfela Hurghada", "rating": 4.5, "reviews": 890, "type": "Egyptian", "notes": "Famous chain, authentic koshari", "area": "Near Hotel" },
-    { "name": "Sofra Restaurant", "rating": 4.4, "reviews": 720, "type": "Mediterranean", "notes": "Jaz Makadi area, great views", "area": "Near Hotel" },
-    { "name": "Blue Moon Restaurant", "rating": 4.3, "reviews": 540, "type": "Seafood", "notes": "Fresh catch, near Safaga Rd", "area": "Near Hotel" },
-    { "name": "La Cucina", "rating": 4.4, "reviews": 680, "type": "Italian", "notes": "Makadi Bay, wood-fired pizza", "area": "Near Hotel" },
-    { "name": "El Khan Restaurant", "rating": 4.5, "reviews": 510, "type": "Egyptian/Oriental", "notes": "Traditional setting, mezze", "area": "Near Hotel" }
+    {
+      "name": "Moby Dick Restaurant",
+      "rating": 4.7,
+      "reviews": 1850,
+      "type": "International",
+      "notes": "Famous camel steak, Sheraton Rd",
+      "area": "Center",
+      "coordinates": [
+        27.2279,
+        33.8384
+      ]
+    },
+    {
+      "name": "The Lodge",
+      "rating": 4.6,
+      "reviews": 1420,
+      "type": "Steakhouse",
+      "notes": "Best steaks, ski lodge vibe, Marina",
+      "area": "Center",
+      "coordinates": [
+        27.2256829,
+        33.8408786
+      ]
+    },
+    {
+      "name": "Grill & Chill",
+      "rating": 4.6,
+      "reviews": 980,
+      "type": "Grill",
+      "notes": "Quality cuts, Marina views",
+      "area": "Center",
+      "coordinates": [
+        27.226939,
+        33.8413736
+      ]
+    },
+    {
+      "name": "The Heaven Restaurant",
+      "rating": 4.5,
+      "reviews": 1120,
+      "type": "Mediterranean",
+      "notes": "Sea views, Marina Boulevard",
+      "area": "Center",
+      "coordinates": [
+        27.2254471,
+        33.8408788
+      ]
+    },
+    {
+      "name": "Starfish Seafood",
+      "rating": 4.4,
+      "reviews": 1650,
+      "type": "Seafood",
+      "notes": "Pick your fish, fresh daily",
+      "area": "Center",
+      "coordinates": [
+        27.2259519,
+        33.8376714
+      ]
+    },
+    {
+      "name": "Felfela Hurghada",
+      "rating": 4.5,
+      "reviews": 890,
+      "type": "Egyptian",
+      "notes": "Famous chain, authentic koshari",
+      "area": "Near Hotel",
+      "coordinates": [
+        27.2063878,
+        33.8479404
+      ]
+    },
+    {
+      "name": "Sofra Restaurant",
+      "rating": 4.4,
+      "reviews": 720,
+      "type": "Mediterranean",
+      "notes": "Jaz Makadi area, great views",
+      "area": "Near Hotel",
+      "coordinates": [
+        26.9888516,
+        33.8972288
+      ]
+    },
+    {
+      "name": "Blue Moon Restaurant",
+      "rating": 4.3,
+      "reviews": 540,
+      "type": "Seafood",
+      "notes": "Fresh catch, near Safaga Rd",
+      "area": "Near Hotel",
+      "coordinates": [
+        27.2266321,
+        33.841192
+      ]
+    },
+    {
+      "name": "La Cucina",
+      "rating": 4.4,
+      "reviews": 680,
+      "type": "Italian",
+      "notes": "Makadi Bay, wood-fired pizza",
+      "area": "Near Hotel",
+      "coordinates": [
+        27.2268658,
+        33.8413658
+      ]
+    },
+    {
+      "name": "El Khan Restaurant",
+      "rating": 4.5,
+      "reviews": 510,
+      "type": "Egyptian/Oriental",
+      "notes": "Traditional setting, mezze",
+      "area": "Near Hotel",
+      "coordinates": [
+        30.0033785,
+        31.4010273
+      ]
+    }
   ]
 }
