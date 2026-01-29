@@ -63,4 +63,7 @@ export interface Hotel {
   cancellation?: string;
   specialRequest?: string;
   coordinates: [number, number];
+  mapsUrl?: string;
+  notes?: string;
+  website?: string;
 }
