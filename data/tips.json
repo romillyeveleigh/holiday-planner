@@ -148,6 +148,17 @@
     "title": "Airport Transfers",
     "airports": [
       {
+        "name": "London Heathrow (LHR) - Outbound",
+        "terminal": "Terminal 2",
+        "flight": "EgyptAir MS784, departs 09:40",
+        "tips": [
+          "Check-in opens 3 hours before departure",
+          "Terminal 2 is the Queen's Terminal — Heathrow Express stops here",
+          "EgyptAir uses Terminal 2",
+          "Allow extra time for security"
+        ]
+      },
+      {
         "name": "Cairo Airport (CAI)",
         "to": "Giza/Pyramids area",
         "distance": "~35km",

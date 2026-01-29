@@ -6,7 +6,7 @@
     "hotel": "Great Pyramid Inn",
     "summary": "Travel day from London to Cairo. Arrive late afternoon and transfer to your hotel with stunning pyramid views.",
     "activities": [
-      { "time": "09:40", "description": "Depart London Heathrow (EgyptAir MS784)" },
+      { "time": "09:40", "description": "Depart London Heathrow Terminal 2 (EgyptAir MS784)" },
       { "time": "16:30", "description": "Arrive Cairo Airport (CAI)" },
       { "time": "~17:30-19:00", "description": "Transfer to hotel" },
       { "time": "From 14:00", "description": "Check-in Great Pyramid Inn" },
