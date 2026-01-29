@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0d9488"/>
+  <!-- Pyramid -->
+  <polygon points="256,380 120,420 392,420" fill="#fbbf24"/>
+  <polygon points="256,380 256,280 120,420" fill="#f59e0b"/>
+  <polygon points="256,380 256,280 392,420" fill="#d97706"/>
+  <!-- Plane -->
+  <g transform="translate(256,180) rotate(-30)">
+    <path d="M-60,0 L-20,-10 L40,0 L60,-5 L60,5 L40,0 L-20,10 Z" fill="white"/>
+    <path d="M-30,0 L-10,-25 L0,-25 L-10,0 L0,25 L-10,25 Z" fill="white"/>
+    <path d="M30,0 L40,-15 L50,-15 L45,0 L50,15 L40,15 Z" fill="white"/>
+  </g>
+</svg>
