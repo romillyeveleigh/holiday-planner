@@ -1,0 +1,118 @@
+[
+  {
+    "date": "2026-01-30",
+    "dayOfWeek": "Friday",
+    "location": "Cairo/Giza",
+    "hotel": "Great Pyramid Inn",
+    "activities": [
+      { "time": "09:40", "description": "Depart London Heathrow (EgyptAir MS784)" },
+      { "time": "16:30", "description": "Arrive Cairo Airport" },
+      { "time": "17:30-19:00", "description": "Transfer to hotel" },
+      { "time": "Evening", "description": "Settle in, rooftop pyramid views, dinner" }
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "dayOfWeek": "Saturday",
+    "location": "Giza/Cairo",
+    "hotel": "Great Pyramid Inn",
+    "activities": [
+      { "time": "08:00-12:00", "description": "Explore Giza Pyramids & Sphinx" },
+      { "time": "Afternoon", "description": "Egyptian Museum (Grand Egyptian Museum)" },
+      { "time": "Evening", "description": "Relax at hotel" }
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "dayOfWeek": "Sunday",
+    "location": "Aswan",
+    "hotel": "Kana Kato",
+    "activities": [
+      { "time": "06:45", "description": "Domestic flight Cairo → Aswan" },
+      { "time": "12:00-13:00", "description": "Transfer to hotel" },
+      { "time": "14:00-18:00", "description": "Explore Elephantine Island, Nile views" },
+      { "time": "Evening", "description": "Felucca sunset sail" }
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "dayOfWeek": "Monday",
+    "location": "Aswan/Abu Simbel",
+    "hotel": "Kana Kato",
+    "activities": [
+      { "time": "04:00-08:00", "description": "Abu Simbel day trip (3h drive each way)" },
+      { "time": "Afternoon", "description": "Temples of Ramses II & Nefertari" },
+      { "time": "Late afternoon", "description": "Return to Aswan, optional Philae Temple" }
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "dayOfWeek": "Tuesday",
+    "location": "Luxor",
+    "hotel": "Steigenberger Resort Achti",
+    "activities": [
+      { "time": "11:00", "description": "Check-out Kana Kato" },
+      { "time": "11:00-14:00", "description": "Transfer to Luxor (optional Kom Ombo & Edfu stops)" },
+      { "time": "15:00", "description": "Check-in Steigenberger Resort Achti" },
+      { "time": "16:00-18:00", "description": "Walk to Luxor Temple" },
+      { "time": "Evening", "description": "Nile-side dinner" }
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "dayOfWeek": "Wednesday",
+    "location": "Luxor",
+    "hotel": "Steigenberger Resort Achti",
+    "activities": [
+      { "time": "06:00-12:00", "description": "West Bank: Valley of the Kings, Hatshepsut Temple" },
+      { "time": "13:00-14:00", "description": "Lunch" },
+      { "time": "15:00-18:00", "description": "Karnak Temple" },
+      { "time": "Evening", "description": "Relax at resort" }
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "dayOfWeek": "Thursday",
+    "location": "Hurghada (Soma Bay)",
+    "hotel": "Sharm El Naga Resort",
+    "activities": [
+      { "time": "12:00", "description": "Check-out Steigenberger Resort Achti" },
+      { "time": "12:00-17:00", "description": "Transfer to Hurghada (4-5h drive)" },
+      { "time": "Evening", "description": "Beach, house reef snorkelling" }
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "dayOfWeek": "Friday",
+    "location": "Hurghada",
+    "hotel": "Iberotel Casa Del Mar",
+    "activities": [
+      { "time": "12:00", "description": "Check-out Sharm El Naga" },
+      { "time": "12:00-13:30", "description": "Transfer to central Hurghada" },
+      { "time": "14:00", "description": "Check-in Iberotel Casa Del Mar" },
+      { "time": "Afternoon", "description": "Beach, pool, explore promenade" },
+      { "time": "Evening", "description": "All-inclusive dining" }
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "dayOfWeek": "Saturday",
+    "location": "Hurghada",
+    "hotel": "Iberotel Casa Del Mar",
+    "activities": [
+      { "time": "Morning/Afternoon", "description": "Horse ride (beach/desert, 1-3 hours)" },
+      { "time": "Rest of day", "description": "Beach, pool, resort relaxation" }
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "dayOfWeek": "Sunday",
+    "location": "Return to London",
+    "activities": [
+      { "time": "12:00", "description": "Check-out Iberotel Casa Del Mar" },
+      { "time": "12:00-14:00", "description": "Transfer to Hurghada Airport" },
+      { "time": "17:45", "description": "Depart Hurghada (easyJet EZY8744)" },
+      { "time": "21:45", "description": "Arrive London Gatwick" }
+    ]
+  }
+]
