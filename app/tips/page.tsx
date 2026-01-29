@@ -352,6 +352,23 @@ export default function TipsPage() {
                 </ul>
               </div>
             )}
+            {section.hotels && (
+              <div className="bg-teal/5 rounded-lg p-3 border border-teal/10">
+                <div className="font-medium text-slate text-sm mb-2">Hotel Names (show to driver)</div>
+                <div className="space-y-2">
+                  {section.hotels.map((hotel: any, i: number) => (
+                    <div key={i} className="text-sm border-b border-teal/10 pb-2 last:border-0 last:pb-0">
+                      <div className="flex justify-between items-start">
+                        <span className="font-medium text-gray-700">{hotel.name}</span>
+                        <span className="text-gray-500 text-xs">{hotel.location}</span>
+                      </div>
+                      <div className="text-xl mt-1" dir="rtl">{hotel.arabic}</div>
+                      <div className="text-xs text-gray-500 mt-0.5">{hotel.address}</div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         );
 

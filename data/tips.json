@@ -212,6 +212,38 @@
       "Always confirm destination before starting journey",
       "Screenshot your hotel address in Arabic",
       "For early morning flights, book hotel transfer night before"
+    ],
+    "hotels": [
+      {
+        "name": "Great Pyramid Inn",
+        "arabic": "فندق الهرم الكبير",
+        "location": "Giza",
+        "address": "10 Sphinx Street, Nazlet El-Semman, Giza"
+      },
+      {
+        "name": "Kana Kato",
+        "arabic": "كانا كاتو",
+        "location": "Elephantine Island, Aswan",
+        "address": "Elephantine Island (reached by boat)"
+      },
+      {
+        "name": "Steigenberger Resort Achti",
+        "arabic": "منتجع شتايجنبرجر أختي",
+        "location": "Luxor",
+        "address": "Khaled Ibn El Walid Street, Luxor"
+      },
+      {
+        "name": "Sharm El Naga Resort",
+        "arabic": "منتجع شرم الناجة",
+        "location": "Soma Bay",
+        "address": "Sharm El Naga Bay, Safaga Road"
+      },
+      {
+        "name": "Iberotel Casa Del Mar",
+        "arabic": "إيبروتيل كاسا ديل مار",
+        "location": "Hurghada",
+        "address": "Tourist Promenade, Hurghada"
+      }
     ]
   }
 }
