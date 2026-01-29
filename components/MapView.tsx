@@ -45,7 +45,7 @@ export default function MapView({ temples, hotels, restaurants }: MapViewProps) 
 
   if (!mounted) {
     return (
-      <div className="w-full h-[calc(100vh-200px)] md:h-[calc(100vh-120px)] bg-slate/5 flex items-center justify-center text-slate-light">
+      <div className="w-full h-full bg-slate/5 flex items-center justify-center text-slate-light">
         Loading map...
       </div>
     );
@@ -57,7 +57,7 @@ export default function MapView({ temples, hotels, restaurants }: MapViewProps) 
     <MapContainer
       center={[26.0, 32.5]}
       zoom={6}
-      className="w-full h-[calc(100vh-200px)] md:h-[calc(100vh-120px)]"
+      className="w-full h-full"
     >
       <TileLayer
         attribution='Tiles &copy; Esri'

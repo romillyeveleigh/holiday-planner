@@ -9,7 +9,7 @@ import { Temple, Hotel, Restaurant } from "@/types";
 const MapView = dynamic(() => import("@/components/MapView"), {
   ssr: false,
   loading: () => (
-    <div className="w-full h-[calc(100vh-120px)] bg-gray-200 flex items-center justify-center">
+    <div className="w-full h-full bg-slate/5 flex items-center justify-center text-slate-light">
       Loading map...
     </div>
   ),
@@ -23,8 +23,8 @@ export default function MapPage() {
   const restaurants: Restaurant[] = Object.values(restaurantsData).flat() as Restaurant[];
 
   return (
-    <div>
-      <div className="p-3 bg-white border-b border-slate/10 flex items-center gap-4 text-sm">
+    <div className="h-[calc(100vh-76px-56px)] md:h-[calc(100vh-60px)] flex flex-col overflow-hidden">
+      <div className="p-3 bg-white border-b border-slate/10 flex items-center gap-4 text-sm shrink-0">
         <span className="flex items-center gap-1.5">
           <span className="w-3 h-3 bg-blue-500 rounded-full"></span> Hotels
         </span>
@@ -35,7 +35,9 @@ export default function MapPage() {
           <span className="w-3 h-3 bg-red-500 rounded-full"></span> Food
         </span>
       </div>
-      <MapView temples={temples} hotels={hotels} restaurants={restaurants} />
+      <div className="flex-1 min-h-0">
+        <MapView temples={temples} hotels={hotels} restaurants={restaurants} />
+      </div>
     </div>
   );
 }
