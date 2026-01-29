@@ -143,5 +143,64 @@
       "Some tomb interiors ban all photography",
       "Ask before photographing locals"
     ]
+  },
+  "transport": {
+    "title": "Airport Transfers",
+    "airports": [
+      {
+        "name": "Cairo Airport (CAI)",
+        "to": "Giza/Pyramids area",
+        "distance": "~35km",
+        "duration": "45-90 mins (traffic dependent)",
+        "options": [
+          { "method": "Uber/Careem", "price": "250-400 EGP (~£4-6)", "notes": "Best option. Book in app, pay by card or cash" },
+          { "method": "Airport taxi (white)", "price": "400-500 EGP", "notes": "Fixed price booth inside arrivals; slightly pricier but reliable" },
+          { "method": "Yellow/street taxi", "price": "200-350 EGP", "notes": "Negotiate firmly before getting in; avoid touts" }
+        ],
+        "tips": [
+          "Uber/Careem pickup is at the car park (follow signs or ask)",
+          "Traffic is brutal 7-10am and 4-8pm — allow extra time",
+          "Have hotel address in Arabic on phone to show driver"
+        ]
+      },
+      {
+        "name": "Aswan Airport (ASW)",
+        "to": "Elephantine Island / Kana Kato",
+        "distance": "~25km to ferry point",
+        "duration": "30-45 mins + boat",
+        "options": [
+          { "method": "Hotel transfer", "price": "Varies", "notes": "Best option — Kana Kato can arrange; includes ferry" },
+          { "method": "Taxi to ferry dock", "price": "150-250 EGP", "notes": "Then take local ferry (5-10 EGP) or hotel boat" },
+          { "method": "Uber/Careem", "price": "Limited availability", "notes": "Less reliable in Aswan" }
+        ],
+        "tips": [
+          "Arrange pickup with Kana Kato in advance — they meet you at the dock",
+          "Aswan airport is small; taxis wait outside arrivals",
+          "Agree on price before getting in if using taxi"
+        ]
+      },
+      {
+        "name": "Hurghada Airport (HRG)",
+        "from": "Iberotel Casa Del Mar",
+        "distance": "~5km",
+        "duration": "10-15 mins",
+        "options": [
+          { "method": "Hotel taxi", "price": "100-150 EGP", "notes": "Book at reception day before" },
+          { "method": "Uber/Careem", "price": "50-100 EGP", "notes": "Works well in Hurghada" },
+          { "method": "Airport taxi", "price": "100-150 EGP", "notes": "Official booth at airport; fixed price" }
+        ],
+        "tips": [
+          "Very short transfer — no stress",
+          "Check-in closes 60 mins before easyJet departure",
+          "Terminal 1 for international departures"
+        ]
+      }
+    ],
+    "general": [
+      "Uber and Careem (Middle East Uber) work in major cities — pay by card or cash",
+      "Always confirm destination before starting journey",
+      "Screenshot your hotel address in Arabic",
+      "For early morning flights, book hotel transfer night before"
+    ]
   }
 }
