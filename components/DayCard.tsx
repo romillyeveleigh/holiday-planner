@@ -20,8 +20,8 @@ export default function DayCard({ day, isToday }: DayCardProps) {
 
   return (
     <div
-      className={`bg-white rounded-lg shadow-md overflow-hidden ${
-        isToday ? "ring-2 ring-gold" : ""
+      className={`bg-white rounded-2xl overflow-hidden border transition-shadow hover:shadow-md ${
+        isToday ? "ring-2 ring-teal border-teal/20 shadow-md" : "border-slate/10 shadow-sm"
       }`}
     >
       <button
@@ -30,35 +30,35 @@ export default function DayCard({ day, isToday }: DayCardProps) {
       >
         <div className="flex items-center gap-4">
           <div
-            className={`w-14 h-14 rounded-lg flex flex-col items-center justify-center ${
-              isToday ? "bg-gold text-navy" : "bg-navy text-cream"
+            className={`w-14 h-14 rounded-xl flex flex-col items-center justify-center ${
+              isToday ? "bg-teal text-white" : "bg-slate text-white"
             }`}
           >
-            <span className="text-xs">{day.dayOfWeek.slice(0, 3)}</span>
+            <span className="text-[10px] font-medium uppercase tracking-wide opacity-80">{day.dayOfWeek.slice(0, 3)}</span>
             <span className="text-lg font-bold">{formattedDate.split(" ")[0]}</span>
           </div>
           <div>
-            <h3 className="font-semibold text-navy">{day.location}</h3>
+            <h3 className="font-semibold text-slate">{day.location}</h3>
             {day.hotel && (
-              <p className="text-sm text-gray-600 flex items-center gap-1">
+              <p className="text-sm text-slate-light/70 flex items-center gap-1">
                 <Hotel size={14} />
                 {day.hotel}
               </p>
             )}
           </div>
         </div>
-        {expanded ? <ChevronUp /> : <ChevronDown />}
+        <ChevronDown className={`text-slate-light/50 transition-transform ${expanded ? "rotate-180" : ""}`} size={20} />
       </button>
 
       {expanded && (
-        <div className="px-4 pb-4 border-t border-gray-100">
-          <ul className="mt-3 space-y-2">
+        <div className="px-4 pb-4 border-t border-slate/5">
+          <ul className="mt-4 space-y-3">
             {day.activities.map((activity, idx) => (
               <li key={idx} className="flex gap-3 text-sm">
-                <span className="text-gold font-medium min-w-[80px]">
+                <span className="text-teal font-medium min-w-[80px]">
                   {activity.time}
                 </span>
-                <span>{activity.description}</span>
+                <span className="text-slate-light">{activity.description}</span>
               </li>
             ))}
           </ul>

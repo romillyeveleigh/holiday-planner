@@ -20,29 +20,29 @@ export default function RestaurantList({ restaurants, location }: RestaurantList
       {restaurants.map((restaurant) => (
         <div
           key={restaurant.name}
-          className="bg-white rounded-lg p-4 shadow-sm"
+          className="bg-white rounded-2xl p-4 border border-slate/10 shadow-sm hover:shadow-md transition-shadow"
         >
           <div className="flex justify-between items-start">
             <div>
-              <h3 className="font-semibold text-navy">{restaurant.name}</h3>
-              <p className="text-sm text-gray-600">{restaurant.type}</p>
+              <h3 className="font-semibold text-slate">{restaurant.name}</h3>
+              <p className="text-sm text-slate-light/70">{restaurant.type}</p>
             </div>
-            <div className="flex items-center gap-1 text-sm">
-              <Star size={14} className="fill-gold text-gold" />
-              <span>{restaurant.rating}</span>
+            <div className="flex items-center gap-1 text-sm bg-amber-50 px-2 py-1 rounded-full">
+              <Star size={14} className="fill-amber-400 text-amber-400" />
+              <span className="font-medium text-amber-700">{restaurant.rating}</span>
               {restaurant.reviews && (
-                <span className="text-gray-400">({restaurant.reviews})</span>
+                <span className="text-amber-600/70">({restaurant.reviews})</span>
               )}
             </div>
           </div>
 
-          <div className="mt-2 flex items-center justify-between text-sm">
+          <div className="mt-3 flex items-center justify-between text-sm">
             <div className="flex gap-3">
               {restaurant.price && (
-                <span className="text-gray-600">{restaurant.price}</span>
+                <span className="text-slate-light/70">{restaurant.price}</span>
               )}
               {restaurant.notes && (
-                <span className="text-gray-500 italic">{restaurant.notes}</span>
+                <span className="text-slate-light/60 italic">{restaurant.notes}</span>
               )}
             </div>
             <a
@@ -51,7 +51,7 @@ export default function RestaurantList({ restaurants, location }: RestaurantList
               )}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-gold hover:text-gold-dark flex items-center gap-1"
+              className="text-teal hover:text-teal-dark font-medium flex items-center gap-1"
             >
               Map <ExternalLink size={12} />
             </a>

@@ -8,11 +8,6 @@ export default function Home() {
 
   return (
     <div className="max-w-2xl mx-auto p-4">
-      <header className="mb-6 md:hidden">
-        <h1 className="text-2xl font-bold text-navy">Egypt Trip 2026</h1>
-        <p className="text-gray-600">Jan 30 - Feb 8</p>
-      </header>
-
       <div className="space-y-4">
         {itinerary.map((day) => (
           <DayCard

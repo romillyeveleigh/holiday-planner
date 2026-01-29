@@ -1,17 +1,38 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-gold: #C9A227;
-  --color-gold-dark: #A68820;
-  --color-navy: #1A1A2E;
-  --color-cream: #FDF5E6;
-  --color-background: var(--color-cream);
-  --color-foreground: var(--color-navy);
+  --color-teal: #0D9488;
+  --color-teal-dark: #0F766E;
+  --color-teal-light: #5EEAD4;
+  --color-slate: #1E293B;
+  --color-slate-light: #334155;
+  --color-sand: #FAFAF9;
+  --color-background: var(--color-sand);
+  --color-foreground: var(--color-slate);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
 body {
-  background-color: var(--color-cream);
-  color: var(--color-navy);
+  background-color: var(--color-sand);
+  color: var(--color-slate);
+}
+
+/* Typography improvements */
+h1 {
+  letter-spacing: -0.025em;
+  font-weight: 700;
+}
+
+h2 {
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+
+/* Card refinements */
+.card {
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+  border: 1px solid rgba(0, 0, 0, 0.04);
 }

@@ -24,17 +24,15 @@ export default function TemplesPage() {
 
   return (
     <div className="max-w-4xl mx-auto p-4">
-      <h1 className="text-2xl font-bold text-navy mb-4 md:hidden">Temples</h1>
-
       <div className="flex gap-2 overflow-x-auto pb-2 mb-4">
         {filters.map((filter) => (
           <button
             key={filter.id}
             onClick={() => setActiveFilter(filter.id)}
-            className={`px-4 py-2 rounded-full text-sm whitespace-nowrap transition-colors ${
+            className={`px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors ${
               activeFilter === filter.id
-                ? "bg-gold text-navy"
-                : "bg-white text-navy border border-gray-200"
+                ? "bg-teal text-white"
+                : "bg-white text-slate border border-slate/10 hover:border-slate/20"
             }`}
           >
             {filter.label}

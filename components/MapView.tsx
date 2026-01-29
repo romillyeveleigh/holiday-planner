@@ -4,10 +4,10 @@ import { useEffect, useState } from "react";
 import { MapContainer, TileLayer, Marker, Popup, Polyline } from "react-leaflet";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
-import { Temple, Hotel } from "@/types";
+import { Temple, Hotel, Restaurant } from "@/types";
 
 const templeIcon = new L.Icon({
-  iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-gold.png",
+  iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png",
   shadowUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png",
   iconSize: [25, 41],
   iconAnchor: [12, 41],
@@ -22,12 +22,21 @@ const hotelIcon = new L.Icon({
   popupAnchor: [1, -34],
 });
 
+const restaurantIcon = new L.Icon({
+  iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
+  shadowUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png",
+  iconSize: [25, 41],
+  iconAnchor: [12, 41],
+  popupAnchor: [1, -34],
+});
+
 interface MapViewProps {
   temples: Temple[];
   hotels: Hotel[];
+  restaurants: Restaurant[];
 }
 
-export default function MapView({ temples, hotels }: MapViewProps) {
+export default function MapView({ temples, hotels, restaurants }: MapViewProps) {
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
@@ -36,7 +45,7 @@ export default function MapView({ temples, hotels }: MapViewProps) {
 
   if (!mounted) {
     return (
-      <div className="w-full h-[calc(100vh-120px)] bg-gray-200 flex items-center justify-center">
+      <div className="w-full h-[calc(100vh-200px)] md:h-[calc(100vh-120px)] bg-slate/5 flex items-center justify-center text-slate-light">
         Loading map...
       </div>
     );
@@ -48,7 +57,7 @@ export default function MapView({ temples, hotels }: MapViewProps) {
     <MapContainer
       center={[26.0, 32.5]}
       zoom={6}
-      className="w-full h-[calc(100vh-120px)] md:h-[calc(100vh-64px)]"
+      className="w-full h-[calc(100vh-200px)] md:h-[calc(100vh-120px)]"
     >
       <TileLayer
         attribution='Tiles &copy; Esri'
@@ -57,7 +66,7 @@ export default function MapView({ temples, hotels }: MapViewProps) {
 
       <Polyline
         positions={routeCoordinates}
-        color="#C9A227"
+        color="#0D9488"
         weight={3}
         dashArray="10, 10"
       />
@@ -79,8 +88,21 @@ export default function MapView({ temples, hotels }: MapViewProps) {
           <Popup>
             <div className="text-sm">
               <h3 className="font-bold">{temple.name}</h3>
-              <p className="text-gold">{temple.visitDate}</p>
+              <p className="text-teal">{temple.visitDate}</p>
               <p className="text-gray-600">{temple.entry}</p>
+            </div>
+          </Popup>
+        </Marker>
+      ))}
+
+      {restaurants.filter(r => r.coordinates).map((restaurant, idx) => (
+        <Marker key={`restaurant-${idx}`} position={restaurant.coordinates!} icon={restaurantIcon}>
+          <Popup>
+            <div className="text-sm">
+              <h3 className="font-bold">{restaurant.name}</h3>
+              <p className="text-gray-600">{restaurant.type}</p>
+              <p className="text-amber-600">{restaurant.rating} stars</p>
+              {restaurant.notes && <p className="text-gray-500 text-xs">{restaurant.notes}</p>}
             </div>
           </Popup>
         </Marker>
