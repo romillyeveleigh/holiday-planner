@@ -5,6 +5,7 @@ import templesData from "@/data/temples.json";
 import hotelsData from "@/data/hotels.json";
 import restaurantsData from "@/data/restaurants.json";
 import { Temple, Hotel, Restaurant } from "@/types";
+import OfflineIndicator from "@/components/OfflineIndicator";
 
 const MapView = dynamic(() => import("@/components/MapView"), {
   ssr: false,
@@ -34,6 +35,9 @@ export default function MapPage() {
         <span className="flex items-center gap-1.5">
           <span className="w-3 h-3 bg-red-500 rounded-full"></span> Food
         </span>
+        <div className="ml-auto">
+          <OfflineIndicator />
+        </div>
       </div>
       <div className="flex-1 min-h-0">
         <MapView temples={temples} hotels={hotels} restaurants={restaurants} />
