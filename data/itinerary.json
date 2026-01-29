@@ -43,23 +43,25 @@
     "dayOfWeek": "Sunday",
     "location": "Aswan",
     "hotel": "Kana Kato",
-    "summary": "Very early start! Fly to Aswan and settle into your beautiful Nubian guesthouse on Elephantine Island. Afternoon temple visit and sunset sail.",
+    "summary": "Very early start! Fly to Aswan and settle into your beautiful Nubian guesthouse on Elephantine Island. Combined afternoon tour to Philae Temple and Nubian Village, then sunset sail.",
     "activities": [
       { "time": "~03:30", "description": "Check-out Great Pyramid Inn (early departure)" },
       { "time": "~04:00", "description": "Transfer to Cairo Airport" },
       { "time": "06:45", "description": "Depart Cairo (domestic flight)" },
       { "time": "08:10", "description": "Arrive Aswan Airport" },
       { "time": "~08:30-09:30", "description": "Transfer to Kana Kato (Elephantine Island)" },
-      { "time": "From 12:00", "description": "Check-in Kana Kato (room may be ready earlier)" },
-      { "time": "Afternoon", "description": "Philae Temple (Temple of Isis)" },
+      { "time": "09:30-12:00", "description": "Rest & settle in after early start" },
+      { "time": "12:00-13:00", "description": "Lunch at guesthouse or nearby" },
+      { "time": "13:00-17:00", "description": "Combined tour: Philae Temple + Nubian Village (motorboat)" },
       { "time": "Evening", "description": "Felucca sunset sail" }
     ],
     "tips": [
       "Pack a small bag the night before for the early morning",
       "Sleep on the plane if you can - it's a short flight",
       "Kana Kato is reached by motorboat - they'll meet you at the dock",
-      "Book the felucca ride through your guesthouse for best prices",
-      "Philae Temple is on an island - allow extra time for the boat transfer"
+      "Book combined Philae + Nubian Village tour through Kana Kato",
+      "Late afternoon light is best for Nubian Village's colourful houses",
+      "Bring small notes for tips at the village (10-20 EGP)"
     ]
   },
   {
@@ -75,7 +77,7 @@
       { "time": "07:00-10:00", "description": "Explore Temples of Ramses II & Nefertari" },
       { "time": "~10:00", "description": "Depart Abu Simbel" },
       { "time": "~13:00", "description": "Return to Aswan" },
-      { "time": "Afternoon", "description": "Explore island, Nile views, rest after early start" },
+      { "time": "Afternoon", "description": "Rest, swim, explore Elephantine Island at leisure" },
       { "time": "Evening", "description": "Relax at hotel" }
     ],
     "tips": [

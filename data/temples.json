@@ -433,7 +433,7 @@
   {
     "id": "nubian-village",
     "name": "Nubian Village",
-    "visitDate": "Feb 1 or 2",
+    "visitDate": "Feb 1",
     "rating": 4.2,
     "reviews": "174",
     "address": "West Bank, Aswan (boat from Elephantine Island)",
@@ -443,7 +443,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Nubian_people",
     "description": "Colourful traditional Nubian community with brightly painted houses in blues, yellows and oranges. The Nubian people have their own language, culture and traditions distinct from Arab Egypt. Friendly locals, henna tattoos, pet crocodiles, traditional food. Best reached by boat—scenic Nile trip. A living cultural experience, not an ancient monument.",
     "region": "aswan",
-    "coordinates": [24.0889, 32.8899],
+    "coordinates": [24.0610611, 32.8642866],
     "imageUrl": "/images/temples/nubian-village.jpg",
     "highlights": [
       "Brightly painted houses—blues, yellows, oranges",
