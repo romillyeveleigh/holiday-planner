@@ -24,19 +24,31 @@
     "dayOfWeek": "Saturday",
     "location": "Giza/Cairo",
     "hotel": "Great Pyramid Inn",
-    "summary": "Full day exploring the ancient wonders of Giza and the Egyptian Museum. This is your main pyramid day!",
+    "summary": "Full day exploring the ancient wonders of Giza and the brand new Grand Egyptian Museum. This is your main pyramid day!",
     "activities": [
       { "time": "08:00-12:00", "description": "Explore Giza Pyramids & Sphinx" },
-      { "time": "Afternoon", "description": "Egyptian Museum (Grand Egyptian Museum or old museum at Tahrir Square)" },
-      { "time": "Evening", "description": "Relax at hotel" }
+      { "time": "12:00-16:00", "description": "Lunch & rest at hotel" },
+      { "time": "17:00-20:00", "description": "Grand Egyptian Museum (GEM) - booked entry 5pm" },
+      { "time": "Evening", "description": "Dinner near pyramids" }
     ],
     "tips": [
       "Arrive at the pyramids early (8am) to beat the crowds and heat",
       "Bring a scarf or hat - the sun is intense even in winter",
       "Agree on prices BEFORE taking camel/horse rides",
-      "The Grand Egyptian Museum requires advance booking - check availability",
+      "GEM is huge - allow 3+ hours to see the highlights",
       "Stay hydrated and carry water with you"
-    ]
+    ],
+    "bookings": {
+      "gem": {
+        "venue": "Grand Egyptian Museum",
+        "reservationNumber": "BMMVRBRW",
+        "bookingCode": "64243S2393139Y",
+        "ticketType": "GEM Access - Other Nationality - Adult",
+        "price": "LE 1,450.00",
+        "entryTime": "17:00",
+        "guest": "Romilly Eveleigh"
+      }
+    }
   },
   {
     "date": "2026-02-01",
