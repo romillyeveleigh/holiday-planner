@@ -307,17 +307,26 @@ export default function TipsPage() {
             {section.airports?.map((airport: any, idx: number) => (
               <div key={idx} className="border border-gray-100 rounded-lg p-3">
                 <div className="font-medium text-slate text-sm mb-1">{airport.name}</div>
-                <div className="text-xs text-gray-500 mb-2">
-                  {airport.to ? `To: ${airport.to}` : `From: ${airport.from}`} • {airport.distance} • {airport.duration}
-                </div>
-                <div className="space-y-1.5 mb-2">
-                  {airport.options.map((opt: any, i: number) => (
-                    <div key={i} className="text-xs flex justify-between items-start gap-2">
-                      <span className="font-medium text-gray-700">{opt.method}</span>
-                      <span className="text-teal shrink-0">{opt.price}</span>
-                    </div>
-                  ))}
-                </div>
+                {(airport.to || airport.from || airport.terminal) && (
+                  <div className="text-xs text-gray-500 mb-2">
+                    {airport.terminal && <span>{airport.terminal}</span>}
+                    {airport.flight && <span> • {airport.flight}</span>}
+                    {airport.to && <span>To: {airport.to}</span>}
+                    {airport.from && <span>From: {airport.from}</span>}
+                    {airport.distance && <span> • {airport.distance}</span>}
+                    {airport.duration && <span> • {airport.duration}</span>}
+                  </div>
+                )}
+                {airport.options && (
+                  <div className="space-y-1.5 mb-2">
+                    {airport.options.map((opt: any, i: number) => (
+                      <div key={i} className="text-xs flex justify-between items-start gap-2">
+                        <span className="font-medium text-gray-700">{opt.method}</span>
+                        <span className="text-teal shrink-0">{opt.price}</span>
+                      </div>
+                    ))}
+                  </div>
+                )}
                 {airport.tips && (
                   <ul className="text-xs text-gray-500 space-y-0.5 border-t border-gray-100 pt-2 mt-2">
                     {airport.tips.map((tip: string, i: number) => (
