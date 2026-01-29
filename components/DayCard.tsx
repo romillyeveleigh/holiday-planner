@@ -38,7 +38,14 @@ export default function DayCard({ day, isToday }: DayCardProps) {
             <span className="text-lg font-bold">{formattedDate.split(" ")[0]}</span>
           </div>
           <div>
-            <h3 className="font-semibold text-slate">{day.location}</h3>
+            <div className="flex items-center gap-2">
+              <h3 className="font-semibold text-slate">{day.location}</h3>
+              {isToday && (
+                <span className="bg-teal text-white text-[10px] font-bold uppercase tracking-wide px-2 py-0.5 rounded-full">
+                  Today
+                </span>
+              )}
+            </div>
             {day.hotel && (
               <p className="text-sm text-slate-light/70 flex items-center gap-1">
                 <Hotel size={14} />
