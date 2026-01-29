@@ -25,9 +25,28 @@ const sectionOrder: SectionKey[] = [
 export default function TipsPage() {
   const [openSections, setOpenSections] = useState<Set<string>>(new Set(["visa", "money"]));
   const [egpAmount, setEgpAmount] = useState<string>("");
+  const [gbpAmount, setGbpAmount] = useState<string>("");
 
   const EGP_TO_GBP_RATE = 0.0155; // ~64.5 EGP = 1 GBP (Jan 2026)
-  const gbpAmount = egpAmount ? (parseFloat(egpAmount) * EGP_TO_GBP_RATE).toFixed(2) : "";
+  const GBP_TO_EGP_RATE = 64.5;
+
+  const handleEgpChange = (value: string) => {
+    setEgpAmount(value);
+    if (value) {
+      setGbpAmount((parseFloat(value) * EGP_TO_GBP_RATE).toFixed(2));
+    } else {
+      setGbpAmount("");
+    }
+  };
+
+  const handleGbpChange = (value: string) => {
+    setGbpAmount(value);
+    if (value) {
+      setEgpAmount((parseFloat(value) * GBP_TO_EGP_RATE).toFixed(0));
+    } else {
+      setEgpAmount("");
+    }
+  };
 
   const toggleSection = (key: string) => {
     const newOpen = new Set(openSections);
@@ -234,7 +253,7 @@ export default function TipsPage() {
                     <input
                       type="number"
                       value={egpAmount}
-                      onChange={(e) => setEgpAmount(e.target.value)}
+                      onChange={(e) => handleEgpChange(e.target.value)}
                       placeholder="0"
                       className="w-full pl-8 pr-3 py-2 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-teal/50"
                     />
@@ -244,13 +263,39 @@ export default function TipsPage() {
                 <div className="flex-1">
                   <div className="relative">
                     <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm">£</span>
-                    <div className="w-full pl-8 pr-3 py-2 bg-white border border-gray-200 rounded-lg text-sm text-slate">
-                      {gbpAmount || "0.00"}
-                    </div>
+                    <input
+                      type="number"
+                      value={gbpAmount}
+                      onChange={(e) => handleGbpChange(e.target.value)}
+                      placeholder="0.00"
+                      className="w-full pl-8 pr-3 py-2 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-teal/50"
+                    />
                   </div>
                 </div>
               </div>
               <p className="text-xs text-gray-400 mt-2">Rate: 1 GBP ≈ 64.5 EGP</p>
+            </div>
+            <div className="grid grid-cols-2 gap-3 text-xs">
+              <div className="bg-gray-50 rounded-lg p-2">
+                <div className="font-medium text-slate mb-1">EGP → GBP</div>
+                <div className="space-y-0.5 text-gray-600">
+                  <div className="flex justify-between"><span>E£50</span><span>£0.78</span></div>
+                  <div className="flex justify-between"><span>E£100</span><span>£1.55</span></div>
+                  <div className="flex justify-between"><span>E£200</span><span>£3.10</span></div>
+                  <div className="flex justify-between"><span>E£500</span><span>£7.75</span></div>
+                  <div className="flex justify-between"><span>E£1,000</span><span>£15.50</span></div>
+                </div>
+              </div>
+              <div className="bg-gray-50 rounded-lg p-2">
+                <div className="font-medium text-slate mb-1">GBP → EGP</div>
+                <div className="space-y-0.5 text-gray-600">
+                  <div className="flex justify-between"><span>£1</span><span>E£65</span></div>
+                  <div className="flex justify-between"><span>£5</span><span>E£323</span></div>
+                  <div className="flex justify-between"><span>£10</span><span>E£645</span></div>
+                  <div className="flex justify-between"><span>£20</span><span>E£1,290</span></div>
+                  <div className="flex justify-between"><span>£50</span><span>E£3,225</span></div>
+                </div>
+              </div>
             </div>
           </div>
         );
