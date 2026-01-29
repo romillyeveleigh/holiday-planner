@@ -12,7 +12,7 @@
     "description": "The last surviving Wonder of the Ancient World. Three pyramids (Khufu, Khafre, Menkaure), the Great Sphinx, and ancient tombs on a desert plateau.",
     "region": "giza",
     "coordinates": [29.9792, 31.1342],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/1280px-Kheops-Pyramid.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Giza_Pyramids.jpg"
   },
   {
     "id": "abu-simbel",
@@ -27,7 +27,7 @@
     "description": "Two massive rock temples built by Ramses II, carved into a mountainside. Famously relocated by UNESCO in the 1960s to save them from flooding.",
     "region": "aswan",
     "coordinates": [22.3372, 31.6258],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Abu_Simbel%2C_Ramesses_Temple%2C_front%2C_Egypt%2C_Oct_2004.jpg/1280px-Abu_Simbel%2C_Ramesses_Temple%2C_front%2C_Egypt%2C_Oct_2004.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Abu_Simbel%2C_Ramesses_Temple%2C_front%2C_Egypt%2C_Oct_2004.jpg"
   },
   {
     "id": "philae",
@@ -42,7 +42,7 @@
     "description": "Beautiful island temple dedicated to goddess Isis. Relocated stone-by-stone by UNESCO after Aswan Dam construction.",
     "region": "aswan",
     "coordinates": [24.0262, 32.8841],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Philae%2C_seen_from_the_water%2C_Aswan%2C_Egypt%2C_Oct_2004.jpg/1280px-Philae%2C_seen_from_the_water%2C_Aswan%2C_Egypt%2C_Oct_2004.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Philae_Temple_Egypt.JPG"
   },
   {
     "id": "kom-ombo",
@@ -57,7 +57,7 @@
     "description": "Unique double temple dedicated to Sobek (crocodile god) and Horus. Perfectly symmetrical with two of everything. Includes crocodile museum.",
     "region": "aswan",
     "coordinates": [24.4522, 32.9281],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kom_Ombo_Temple_R02.jpg/1280px-Kom_Ombo_Temple_R02.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/S_F-E-CAMERON_2006-10-EGYPT-KOM_OMBO-0041.JPG"
   },
   {
     "id": "edfu",
@@ -72,7 +72,7 @@
     "description": "Best-preserved ancient temple in Egypt. Dedicated to Horus, the falcon god. Second largest temple after Karnak.",
     "region": "aswan",
     "coordinates": [24.9781, 32.8734],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Edfu_Temple_032010_01.jpg/1280px-Edfu_Temple_032010_01.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Edfu_Temple_2.jpg"
   },
   {
     "id": "valley-of-kings",
@@ -87,7 +87,7 @@
     "description": "Royal burial ground for 500 years. Contains 63 tombs including Tutankhamun. Vivid painted walls depicting the afterlife journey.",
     "region": "luxor",
     "coordinates": [25.7402, 32.6014],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Valley_of_the_Kings_panorama.jpg/1280px-Valley_of_the_Kings_panorama.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Valley_of_the_Kings_%28Luxor%2C_Egypt%29.jpg"
   },
   {
     "id": "hatshepsut",
@@ -102,7 +102,7 @@
     "description": "Dramatic three-tiered temple built into cliffs for Egypt's female pharaoh. Unique colonnaded design.",
     "region": "luxor",
     "coordinates": [25.7381, 32.6066],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/SFEC_EGYPT_HATSHEPSUT_2006-003.JPG/1280px-SFEC_EGYPT_HATSHEPSUT_2006-003.JPG"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Deir_el-Bahari_0478.JPG"
   },
   {
     "id": "medinet-habu",
@@ -117,7 +117,7 @@
     "description": "Second largest temple in Egypt with best-preserved colour on reliefs. Often less crowded than Karnak—hidden gem.",
     "region": "luxor",
     "coordinates": [25.7194, 32.6011],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Medinet_Habu_Ramses_III._Tempel_05.JPG/1280px-Medinet_Habu_Ramses_III._Tempel_05.JPG"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Medinet_Habu_Ramses_III._Tempel_Nordseite_06.jpg"
   },
   {
     "id": "karnak",
@@ -132,7 +132,7 @@
     "description": "Largest religious complex ever built. Massive Hypostyle Hall with 134 giant columns. Built over 2,000 years by 30 pharaohs.",
     "region": "luxor",
     "coordinates": [25.7188, 32.6573],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Karnak_temple_-_panoramio.jpg/1280px-Karnak_temple_-_panoramio.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Karnak_Tempel_Vorhof.jpg"
   },
   {
     "id": "luxor-temple",
@@ -147,7 +147,7 @@
     "description": "City centre temple connected to Karnak by Avenue of Sphinxes. Stunning when floodlit at night.",
     "region": "luxor",
     "coordinates": [25.6996, 32.6390],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Luxor_Temple_R03.jpg/1280px-Luxor_Temple_R03.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Luxor_temple%2C_evening.jpg"
   },
   {
     "id": "dendera",
@@ -162,7 +162,7 @@
     "description": "Best-preserved temple ceiling in Egypt with famous zodiac. Dedicated to Hathor, goddess of love. Rare rooftop access.",
     "region": "daytrip",
     "coordinates": [26.1418, 32.6700],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dendera_Temple_Complex_01.jpg/1280px-Dendera_Temple_Complex_01.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dendera_temple_complex.jpg"
   },
   {
     "id": "abydos",
@@ -177,7 +177,7 @@
     "description": "Sacred burial site of Osiris. Temple of Seti I has finest reliefs in Egypt—still retaining original colours.",
     "region": "daytrip",
     "coordinates": [26.1850, 31.9191],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Abydos_Tempel_Sethos_I._26.JPG/1280px-Abydos_Tempel_Sethos_I._26.JPG"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Abydos_Tempelanlage_Sethos_I._02.JPG"
   },
   {
     "id": "nubian-village",
@@ -192,6 +192,6 @@
     "description": "Colourful traditional Nubian community. Painted houses, friendly locals, henna tattoos, crocodile encounters.",
     "region": "aswan",
     "coordinates": [24.0889, 32.8899],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nubian_village_on_Elephantine_Island_-_panoramio.jpg/1280px-Nubian_village_on_Elephantine_Island_-_panoramio.jpg"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Aswan_Nubian_village.jpg"
   }
 ]
